@@ -1,0 +1,5393 @@
+{
+ "version": 3,
+ "characters": [
+  {
+   "id": "dl1:七长老",
+   "name": "七长老",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-七长老-avatar.webp",
+   "standing": "斗一-七长老-standing.webp"
+  },
+  {
+   "id": "dl1:三生狼猿",
+   "name": "三生狼猿",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-三生狼猿-avatar.webp",
+   "standing": "斗一-三生狼猿-standing.webp"
+  },
+  {
+   "id": "dl1:不乐",
+   "name": "不乐",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-不乐-avatar.webp",
+   "standing": "斗一-不乐-standing.webp"
+  },
+  {
+   "id": "dl1:丝丝",
+   "name": "丝丝",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-丝丝-avatar.webp",
+   "standing": "斗一-丝丝-standing.webp"
+  },
+  {
+   "id": "dl1:二明",
+   "name": "二明",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-二明-avatar.webp",
+   "standing": "斗一-二明-standing.webp"
+  },
+  {
+   "id": "dl1:二长老",
+   "name": "二长老",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-二长老-avatar.webp",
+   "standing": "斗一-二长老-standing.webp"
+  },
+  {
+   "id": "dl1:于海柔",
+   "name": "于海柔",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-于海柔-avatar.webp",
+   "standing": "斗一-于海柔-standing.webp"
+  },
+  {
+   "id": "dl1:京灵",
+   "name": "京灵",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-京灵-avatar.webp",
+   "standing": "斗一-京灵-standing.webp"
+  },
+  {
+   "id": "dl1:人面魔蛛",
+   "name": "人面魔蛛",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-人面魔蛛-avatar.webp",
+   "standing": "斗一-人面魔蛛-standing.webp"
+  },
+  {
+   "id": "dl1:佘龙",
+   "name": "佘龙",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-佘龙-avatar.webp",
+   "standing": "斗一-佘龙-standing.webp"
+  },
+  {
+   "id": "dl1:傲慢之神",
+   "name": "傲慢之神",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-傲慢之神-avatar.webp",
+   "standing": "斗一-傲慢之神-standing.webp"
+  },
+  {
+   "id": "dl1:光翎斗罗",
+   "name": "光翎斗罗",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-光翎斗罗-avatar.webp",
+   "standing": "斗一-光翎斗罗-standing.webp"
+  },
+  {
+   "id": "dl1:兜兜",
+   "name": "兜兜",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-兜兜-avatar.webp",
+   "standing": "斗一-兜兜-standing.webp"
+  },
+  {
+   "id": "dl1:八角玄冰草",
+   "name": "八角玄冰草",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-八角玄冰草-avatar.webp",
+   "standing": "斗一-八角玄冰草-standing.webp"
+  },
+  {
+   "id": "dl1:冰熊",
+   "name": "冰熊",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-冰熊-avatar.webp",
+   "standing": "斗一-冰熊-standing.webp"
+  },
+  {
+   "id": "dl1:冰碧蝎",
+   "name": "冰碧蝎",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-冰碧蝎-avatar.webp",
+   "standing": "斗一-冰碧蝎-standing.webp"
+  },
+  {
+   "id": "dl1:凌风",
+   "name": "凌风",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-凌风-avatar.webp",
+   "standing": "斗一-凌风-standing.webp"
+  },
+  {
+   "id": "dl1:凤尾鸡冠蛇",
+   "name": "凤尾鸡冠蛇",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-凤尾鸡冠蛇-avatar.webp",
+   "standing": "斗一-凤尾鸡冠蛇-standing.webp"
+  },
+  {
+   "id": "dl1:刺血",
+   "name": "刺血",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-刺血-avatar.webp",
+   "standing": "斗一-刺血-standing.webp"
+  },
+  {
+   "id": "dl1:十首烈阳蛇",
+   "name": "十首烈阳蛇",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-十首烈阳蛇-avatar.webp",
+   "standing": "斗一-十首烈阳蛇-standing.webp"
+  },
+  {
+   "id": "dl1:千仞雪",
+   "name": "千仞雪",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-千仞雪-avatar.webp",
+   "standing": "斗一-千仞雪-standing.webp"
+  },
+  {
+   "id": "dl1:千寻疾",
+   "name": "千寻疾",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-千寻疾-avatar.webp",
+   "standing": "斗一-千寻疾-standing.webp"
+  },
+  {
+   "id": "dl1:千道流",
+   "name": "千道流",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-千道流-avatar.webp",
+   "standing": "斗一-千道流-standing.webp"
+  },
+  {
+   "id": "dl1:千钧斗罗",
+   "name": "千钧斗罗",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-千钧斗罗-avatar.webp",
+   "standing": "斗一-千钧斗罗-standing.webp"
+  },
+  {
+   "id": "dl1:千钧蚁皇",
+   "name": "千钧蚁皇",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-千钧蚁皇-avatar.webp",
+   "standing": "斗一-千钧蚁皇-standing.webp"
+  },
+  {
+   "id": "dl1:卢奇斌",
+   "name": "卢奇斌",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-卢奇斌-avatar.webp",
+   "standing": "斗一-卢奇斌-standing.webp"
+  },
+  {
+   "id": "dl1:卲鑫",
+   "name": "卲鑫",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-卲鑫-avatar.webp",
+   "standing": "斗一-卲鑫-standing.webp"
+  },
+  {
+   "id": "dl1:双子独眼巨人",
+   "name": "双子独眼巨人",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-双子独眼巨人-avatar.webp",
+   "standing": "斗一-双子独眼巨人-standing.webp"
+  },
+  {
+   "id": "dl1:古榕",
+   "name": "古榕",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-古榕-avatar.webp",
+   "standing": "斗一-古榕-standing.webp"
+  },
+  {
+   "id": "dl1:叶泠泠",
+   "name": "叶泠泠",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-叶泠泠-avatar.webp",
+   "standing": "斗一-叶泠泠-standing.webp"
+  },
+  {
+   "id": "dl1:叶知秋",
+   "name": "叶知秋",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-叶知秋-avatar.webp",
+   "standing": "斗一-叶知秋-standing.webp"
+  },
+  {
+   "id": "dl1:吉祥",
+   "name": "吉祥",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-吉祥-avatar.webp",
+   "standing": "斗一-吉祥-standing.webp"
+  },
+  {
+   "id": "dl1:呼延力",
+   "name": "呼延力",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-呼延力-avatar.webp",
+   "standing": "斗一-呼延力-standing.webp"
+  },
+  {
+   "id": "dl1:呼延震",
+   "name": "呼延震",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-呼延震-avatar.webp",
+   "standing": "斗一-呼延震-standing.webp"
+  },
+  {
+   "id": "dl1:唐三",
+   "name": "唐三",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-唐三-avatar.webp",
+   "standing": "斗一-唐三-standing.webp"
+  },
+  {
+   "id": "dl1:唐啸",
+   "name": "唐啸",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-唐啸-avatar.webp",
+   "standing": "斗一-唐啸-standing.webp"
+  },
+  {
+   "id": "dl1:唐大先生",
+   "name": "唐大先生",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-唐大先生-avatar.webp",
+   "standing": "斗一-唐大先生-standing.webp"
+  },
+  {
+   "id": "dl1:唐宏宁",
+   "name": "唐宏宁",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-唐宏宁-avatar.webp",
+   "standing": "斗一-唐宏宁-standing.webp"
+  },
+  {
+   "id": "dl1:唐昊",
+   "name": "唐昊",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-唐昊-avatar.webp",
+   "standing": "斗一-唐昊-standing.webp"
+  },
+  {
+   "id": "dl1:唐晨",
+   "name": "唐晨",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-唐晨-avatar.webp",
+   "standing": "斗一-唐晨-standing.webp"
+  },
+  {
+   "id": "dl1:唐月华",
+   "name": "唐月华",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-唐月华-avatar.webp",
+   "standing": "斗一-唐月华-standing.webp"
+  },
+  {
+   "id": "dl1:唐玉",
+   "name": "唐玉",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-唐玉-avatar.webp",
+   "standing": "斗一-唐玉-standing.webp"
+  },
+  {
+   "id": "dl1:唐甜甜",
+   "name": "唐甜甜",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-唐甜甜-avatar.webp",
+   "standing": "斗一-唐甜甜-standing.webp"
+  },
+  {
+   "id": "dl1:唐蓝",
+   "name": "唐蓝",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-唐蓝-avatar.webp",
+   "standing": "斗一-唐蓝-standing.webp"
+  },
+  {
+   "id": "dl1:唐虎",
+   "name": "唐虎",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-唐虎-avatar.webp",
+   "standing": "斗一-唐虎-standing.webp"
+  },
+  {
+   "id": "dl1:唐龙",
+   "name": "唐龙",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-唐龙-avatar.webp",
+   "standing": "斗一-唐龙-standing.webp"
+  },
+  {
+   "id": "dl1:地穴魔蛛",
+   "name": "地穴魔蛛",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-地穴魔蛛-avatar.webp",
+   "standing": "斗一-地穴魔蛛-standing.webp"
+  },
+  {
+   "id": "dl1:地龙金瓜",
+   "name": "地龙金瓜",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-地龙金瓜-avatar.webp",
+   "standing": "斗一-地龙金瓜-standing.webp"
+  },
+  {
+   "id": "dl1:墨玉神竹",
+   "name": "墨玉神竹",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-墨玉神竹-avatar.webp",
+   "standing": "斗一-墨玉神竹-standing.webp"
+  },
+  {
+   "id": "dl1:墨痕",
+   "name": "墨痕",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-墨痕-avatar.webp",
+   "standing": "斗一-墨痕-standing.webp"
+  },
+  {
+   "id": "dl1:大地之王",
+   "name": "大地之王",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-大地之王-avatar.webp",
+   "standing": "斗一-大地之王-standing.webp"
+  },
+  {
+   "id": "dl1:大明",
+   "name": "大明",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-大明-avatar.webp",
+   "standing": "斗一-大明-standing.webp"
+  },
+  {
+   "id": "dl1:天使神",
+   "name": "天使神",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-天使神-avatar.webp",
+   "standing": "斗一-天使神-standing.webp"
+  },
+  {
+   "id": "dl1:天涯",
+   "name": "天涯",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-天涯-avatar.webp",
+   "standing": "斗一-天涯-standing.webp"
+  },
+  {
+   "id": "dl1:奥斯卡",
+   "name": "奥斯卡",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-奥斯卡-avatar.webp",
+   "standing": "斗一-奥斯卡-standing.webp"
+  },
+  {
+   "id": "dl1:奥斯罗",
+   "name": "奥斯罗",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-奥斯罗-avatar.webp",
+   "standing": "斗一-奥斯罗-standing.webp"
+  },
+  {
+   "id": "dl1:妒忌之神",
+   "name": "妒忌之神",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-妒忌之神-avatar.webp",
+   "standing": "斗一-妒忌之神-standing.webp"
+  },
+  {
+   "id": "dl1:姚紫",
+   "name": "姚紫",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-姚紫-avatar.webp",
+   "standing": "斗一-姚紫-standing.webp"
+  },
+  {
+   "id": "dl1:孙传涛",
+   "name": "孙传涛",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-孙传涛-avatar.webp",
+   "standing": "斗一-孙传涛-standing.webp"
+  },
+  {
+   "id": "dl1:孟依然",
+   "name": "孟依然",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-孟依然-avatar.webp",
+   "standing": "斗一-孟依然-standing.webp"
+  },
+  {
+   "id": "dl1:孟蜀",
+   "name": "孟蜀",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-孟蜀-avatar.webp",
+   "standing": "斗一-孟蜀-standing.webp"
+  },
+  {
+   "id": "dl1:宁荣荣",
+   "name": "宁荣荣",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-宁荣荣-avatar.webp",
+   "standing": "斗一-宁荣荣-standing.webp"
+  },
+  {
+   "id": "dl1:宁风致",
+   "name": "宁风致",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-宁风致-avatar.webp",
+   "standing": "斗一-宁风致-standing.webp"
+  },
+  {
+   "id": "dl1:小五",
+   "name": "小五",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-小五-avatar.webp",
+   "standing": "斗一-小五-standing.webp"
+  },
+  {
+   "id": "dl1:小白",
+   "name": "小白",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-小白-avatar.webp",
+   "standing": "斗一-小白-standing.webp"
+  },
+  {
+   "id": "dl1:小舞",
+   "name": "小舞",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-小舞-avatar.webp",
+   "standing": "斗一-小舞-standing.webp"
+  },
+  {
+   "id": "dl1:尘心",
+   "name": "尘心",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-尘心-avatar.webp",
+   "standing": "斗一-尘心-standing.webp"
+  },
+  {
+   "id": "dl1:幻之精灵龙",
+   "name": "幻之精灵龙",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-幻之精灵龙-avatar.webp",
+   "standing": "斗一-幻之精灵龙-standing.webp"
+  },
+  {
+   "id": "dl1:幽冥狼",
+   "name": "幽冥狼",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-幽冥狼-avatar.webp",
+   "standing": "斗一-幽冥狼-standing.webp"
+  },
+  {
+   "id": "dl1:幽香绮罗仙品",
+   "name": "幽香绮罗仙品",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-幽香绮罗仙品-avatar.webp",
+   "standing": "斗一-幽香绮罗仙品-standing.webp"
+  },
+  {
+   "id": "dl1:庄俞森",
+   "name": "庄俞森",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-庄俞森-avatar.webp",
+   "standing": "斗一-庄俞森-standing.webp"
+  },
+  {
+   "id": "dl1:庆宝",
+   "name": "庆宝",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-庆宝-avatar.webp",
+   "standing": "斗一-庆宝-standing.webp"
+  },
+  {
+   "id": "dl1:弗兰德",
+   "name": "弗兰德",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-弗兰德-avatar.webp",
+   "standing": "斗一-弗兰德-standing.webp"
+  },
+  {
+   "id": "dl1:张萍",
+   "name": "张萍",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-张萍-avatar.webp",
+   "standing": "斗一-张萍-standing.webp"
+  },
+  {
+   "id": "dl1:御风",
+   "name": "御风",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-御风-avatar.webp",
+   "standing": "斗一-御风-standing.webp"
+  },
+  {
+   "id": "dl1:思龙",
+   "name": "思龙",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-思龙-avatar.webp",
+   "standing": "斗一-思龙-standing.webp"
+  },
+  {
+   "id": "dl1:戴沐白",
+   "name": "戴沐白",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-戴沐白-avatar.webp",
+   "standing": "斗一-戴沐白-standing.webp"
+  },
+  {
+   "id": "dl1:戴维斯",
+   "name": "戴维斯",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-戴维斯-avatar.webp",
+   "standing": "斗一-戴维斯-standing.webp"
+  },
+  {
+   "id": "dl1:拓跋希",
+   "name": "拓跋希",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-拓跋希-avatar.webp",
+   "standing": "斗一-拓跋希-standing.webp"
+  },
+  {
+   "id": "dl1:斑斓猫",
+   "name": "斑斓猫",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-斑斓猫-avatar.webp",
+   "standing": "斗一-斑斓猫-standing.webp"
+  },
+  {
+   "id": "dl1:时年",
+   "name": "时年",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-时年-avatar.webp",
+   "standing": "斗一-时年-standing.webp"
+  },
+  {
+   "id": "dl1:智林",
+   "name": "智林",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-智林-avatar.webp",
+   "standing": "斗一-智林-standing.webp"
+  },
+  {
+   "id": "dl1:暗金恐爪熊",
+   "name": "暗金恐爪熊",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-暗金恐爪熊-avatar.webp",
+   "standing": "斗一-暗金恐爪熊-standing.webp"
+  },
+  {
+   "id": "dl1:暗魔邪神虎",
+   "name": "暗魔邪神虎",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-暗魔邪神虎-avatar.webp",
+   "standing": "斗一-暗魔邪神虎-standing.webp"
+  },
+  {
+   "id": "dl1:暮云藤",
+   "name": "暮云藤",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-暮云藤-avatar.webp",
+   "standing": "斗一-暮云藤-standing.webp"
+  },
+  {
+   "id": "dl1:曼陀罗蛇",
+   "name": "曼陀罗蛇",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-曼陀罗蛇-avatar.webp",
+   "standing": "斗一-曼陀罗蛇-standing.webp"
+  },
+  {
+   "id": "dl1:望穿秋水露",
+   "name": "望穿秋水露",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-望穿秋水露-avatar.webp",
+   "standing": "斗一-望穿秋水露-standing.webp"
+  },
+  {
+   "id": "dl1:朝天香",
+   "name": "朝天香",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-朝天香-avatar.webp",
+   "standing": "斗一-朝天香-standing.webp"
+  },
+  {
+   "id": "dl1:朱竹云",
+   "name": "朱竹云",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-朱竹云-avatar.webp",
+   "standing": "斗一-朱竹云-standing.webp"
+  },
+  {
+   "id": "dl1:朱竹清",
+   "name": "朱竹清",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-朱竹清-avatar.webp",
+   "standing": "斗一-朱竹清-standing.webp"
+  },
+  {
+   "id": "dl1:杀戮之王",
+   "name": "杀戮之王",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-杀戮之王-avatar.webp",
+   "standing": "斗一-杀戮之王-standing.webp"
+  },
+  {
+   "id": "dl1:李郁松",
+   "name": "李郁松",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-李郁松-avatar.webp",
+   "standing": "斗一-李郁松-standing.webp"
+  },
+  {
+   "id": "dl1:李锴",
+   "name": "李锴",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-李锴-avatar.webp",
+   "standing": "斗一-李锴-standing.webp"
+  },
+  {
+   "id": "dl1:杨无双",
+   "name": "杨无双",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-杨无双-avatar.webp",
+   "standing": "斗一-杨无双-standing.webp"
+  },
+  {
+   "id": "dl1:杨无敌",
+   "name": "杨无敌",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-杨无敌-avatar.webp",
+   "standing": "斗一-杨无敌-standing.webp"
+  },
+  {
+   "id": "dl1:杨明昕",
+   "name": "杨明昕",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-杨明昕-avatar.webp",
+   "standing": "斗一-杨明昕-standing.webp"
+  },
+  {
+   "id": "dl1:柔骨兔",
+   "name": "柔骨兔",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-柔骨兔-avatar.webp",
+   "standing": "斗一-柔骨兔-standing.webp"
+  },
+  {
+   "id": "dl1:柳二龙",
+   "name": "柳二龙",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-柳二龙-avatar.webp",
+   "standing": "斗一-柳二龙-standing.webp"
+  },
+  {
+   "id": "dl1:柳龙",
+   "name": "柳龙",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-柳龙-avatar.webp",
+   "standing": "斗一-柳龙-standing.webp"
+  },
+  {
+   "id": "dl1:梦神机",
+   "name": "梦神机",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-梦神机-avatar.webp",
+   "standing": "斗一-梦神机-standing.webp"
+  },
+  {
+   "id": "dl1:楼高",
+   "name": "楼高",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-楼高-avatar.webp",
+   "standing": "斗一-楼高-standing.webp"
+  },
+  {
+   "id": "dl1:欧亚",
+   "name": "欧亚",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-欧亚-avatar.webp",
+   "standing": "斗一-欧亚-standing.webp"
+  },
+  {
+   "id": "dl1:欲望之神",
+   "name": "欲望之神",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-欲望之神-avatar.webp",
+   "standing": "斗一-欲望之神-standing.webp"
+  },
+  {
+   "id": "dl1:毁灭之神",
+   "name": "毁灭之神",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-毁灭之神-avatar.webp",
+   "standing": "斗一-毁灭之神-standing.webp"
+  },
+  {
+   "id": "dl1:比比东",
+   "name": "比比东",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-比比东-avatar.webp",
+   "standing": "斗一-比比东-standing.webp"
+  },
+  {
+   "id": "dl1:水冰儿",
+   "name": "水冰儿",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-水冰儿-avatar.webp",
+   "standing": "斗一-水冰儿-standing.webp"
+  },
+  {
+   "id": "dl1:水月儿",
+   "name": "水月儿",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-水月儿-avatar.webp",
+   "standing": "斗一-水月儿-standing.webp"
+  },
+  {
+   "id": "dl1:沈流玉",
+   "name": "沈流玉",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-沈流玉-avatar.webp",
+   "standing": "斗一-沈流玉-standing.webp"
+  },
+  {
+   "id": "dl1:波塞东",
+   "name": "波塞东",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-波塞东-avatar.webp",
+   "standing": "斗一-波塞东-standing.webp"
+  },
+  {
+   "id": "dl1:波赛西",
+   "name": "波赛西",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-波赛西-avatar.webp",
+   "standing": "斗一-波赛西-standing.webp"
+  },
+  {
+   "id": "dl1:泰坦",
+   "name": "泰坦",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-泰坦-avatar.webp",
+   "standing": "斗一-泰坦-standing.webp"
+  },
+  {
+   "id": "dl1:泰坦雪魔",
+   "name": "泰坦雪魔",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-泰坦雪魔-avatar.webp",
+   "standing": "斗一-泰坦雪魔-standing.webp"
+  },
+  {
+   "id": "dl1:泰诺",
+   "name": "泰诺",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-泰诺-avatar.webp",
+   "standing": "斗一-泰诺-standing.webp"
+  },
+  {
+   "id": "dl1:泰隆",
+   "name": "泰隆",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-泰隆-avatar.webp",
+   "standing": "斗一-泰隆-standing.webp"
+  },
+  {
+   "id": "dl1:洛尔迪亚拉",
+   "name": "洛尔迪亚拉",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-洛尔迪亚拉-avatar.webp",
+   "standing": "斗一-洛尔迪亚拉-standing.webp"
+  },
+  {
+   "id": "dl1:浩特",
+   "name": "浩特",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-浩特-avatar.webp",
+   "standing": "斗一-浩特-standing.webp"
+  },
+  {
+   "id": "dl1:海女斗罗",
+   "name": "海女斗罗",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-海女斗罗-avatar.webp",
+   "standing": "斗一-海女斗罗-standing.webp"
+  },
+  {
+   "id": "dl1:海妄斗罗",
+   "name": "海妄斗罗",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-海妄斗罗-avatar.webp",
+   "standing": "斗一-海妄斗罗-standing.webp"
+  },
+  {
+   "id": "dl1:海幻斗罗",
+   "name": "海幻斗罗",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-海幻斗罗-avatar.webp",
+   "standing": "斗一-海幻斗罗-standing.webp"
+  },
+  {
+   "id": "dl1:海德尔",
+   "name": "海德尔",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-海德尔-avatar.webp",
+   "standing": "斗一-海德尔-standing.webp"
+  },
+  {
+   "id": "dl1:海星斗罗",
+   "name": "海星斗罗",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-海星斗罗-avatar.webp",
+   "standing": "斗一-海星斗罗-standing.webp"
+  },
+  {
+   "id": "dl1:海矛斗罗",
+   "name": "海矛斗罗",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-海矛斗罗-avatar.webp",
+   "standing": "斗一-海矛斗罗-standing.webp"
+  },
+  {
+   "id": "dl1:海马斗罗",
+   "name": "海马斗罗",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-海马斗罗-avatar.webp",
+   "standing": "斗一-海马斗罗-standing.webp"
+  },
+  {
+   "id": "dl1:海鬼斗罗",
+   "name": "海鬼斗罗",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-海鬼斗罗-avatar.webp",
+   "standing": "斗一-海鬼斗罗-standing.webp"
+  },
+  {
+   "id": "dl1:海龙斗罗",
+   "name": "海龙斗罗",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-海龙斗罗-avatar.webp",
+   "standing": "斗一-海龙斗罗-standing.webp"
+  },
+  {
+   "id": "dl1:深海魔鲸王",
+   "name": "深海魔鲸王",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-深海魔鲸王-avatar.webp",
+   "standing": "斗一-深海魔鲸王-standing.webp"
+  },
+  {
+   "id": "dl1:火无双",
+   "name": "火无双",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-火无双-avatar.webp",
+   "standing": "斗一-火无双-standing.webp"
+  },
+  {
+   "id": "dl1:火舞",
+   "name": "火舞",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-火舞-avatar.webp",
+   "standing": "斗一-火舞-standing.webp"
+  },
+  {
+   "id": "dl1:灵鸢斗罗",
+   "name": "灵鸢斗罗",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-灵鸢斗罗-avatar.webp",
+   "standing": "斗一-灵鸢斗罗-standing.webp"
+  },
+  {
+   "id": "dl1:烈火杏娇疏",
+   "name": "烈火杏娇疏",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-烈火杏娇疏-avatar.webp",
+   "standing": "斗一-烈火杏娇疏-standing.webp"
+  },
+  {
+   "id": "dl1:烈阳斗罗",
+   "name": "烈阳斗罗",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-烈阳斗罗-avatar.webp",
+   "standing": "斗一-烈阳斗罗-standing.webp"
+  },
+  {
+   "id": "dl1:焱",
+   "name": "焱",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-焱-avatar.webp",
+   "standing": "斗一-焱-standing.webp"
+  },
+  {
+   "id": "dl1:牛皋",
+   "name": "牛皋",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-牛皋-avatar.webp",
+   "standing": "斗一-牛皋-standing.webp"
+  },
+  {
+   "id": "dl1:独孤博",
+   "name": "独孤博",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-独孤博-avatar.webp",
+   "standing": "斗一-独孤博-standing.webp"
+  },
+  {
+   "id": "dl1:独孤雁",
+   "name": "独孤雁",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-独孤雁-avatar.webp",
+   "standing": "斗一-独孤雁-standing.webp"
+  },
+  {
+   "id": "dl1:独眼巨人",
+   "name": "独眼巨人",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-独眼巨人-avatar.webp",
+   "standing": "斗一-独眼巨人-standing.webp"
+  },
+  {
+   "id": "dl1:狼盗",
+   "name": "狼盗",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-狼盗-avatar.webp",
+   "standing": "斗一-狼盗-standing.webp"
+  },
+  {
+   "id": "dl1:玉元震",
+   "name": "玉元震",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-玉元震-avatar.webp",
+   "standing": "斗一-玉元震-standing.webp"
+  },
+  {
+   "id": "dl1:玉天心",
+   "name": "玉天心",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-玉天心-avatar.webp",
+   "standing": "斗一-玉天心-standing.webp"
+  },
+  {
+   "id": "dl1:玉天恒",
+   "name": "玉天恒",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-玉天恒-avatar.webp",
+   "standing": "斗一-玉天恒-standing.webp"
+  },
+  {
+   "id": "dl1:玉小刚",
+   "name": "玉小刚",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-玉小刚-avatar.webp",
+   "standing": "斗一-玉小刚-standing.webp"
+  },
+  {
+   "id": "dl1:玉罗冕",
+   "name": "玉罗冕",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-玉罗冕-avatar.webp",
+   "standing": "斗一-玉罗冕-standing.webp"
+  },
+  {
+   "id": "dl1:王圣",
+   "name": "王圣",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-王圣-avatar.webp",
+   "standing": "斗一-王圣-standing.webp"
+  },
+  {
+   "id": "dl1:王经理",
+   "name": "王经理",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-王经理-avatar.webp",
+   "standing": "斗一-王经理-standing.webp"
+  },
+  {
+   "id": "dl1:白沉香",
+   "name": "白沉香",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-白沉香-avatar.webp",
+   "standing": "斗一-白沉香-standing.webp"
+  },
+  {
+   "id": "dl1:白鹤",
+   "name": "白鹤",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-白鹤-avatar.webp",
+   "standing": "斗一-白鹤-standing.webp"
+  },
+  {
+   "id": "dl1:石三",
+   "name": "石三",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-石三-avatar.webp",
+   "standing": "斗一-石三-standing.webp"
+  },
+  {
+   "id": "dl1:石墨",
+   "name": "石墨",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-石墨-avatar.webp",
+   "standing": "斗一-石墨-standing.webp"
+  },
+  {
+   "id": "dl1:石磨",
+   "name": "石磨",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-石磨-avatar.webp",
+   "standing": "斗一-石磨-standing.webp"
+  },
+  {
+   "id": "dl1:秦明",
+   "name": "秦明",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-秦明-avatar.webp",
+   "standing": "斗一-秦明-standing.webp"
+  },
+  {
+   "id": "dl1:粉红娘娘",
+   "name": "粉红娘娘",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-粉红娘娘-avatar.webp",
+   "standing": "斗一-粉红娘娘-standing.webp"
+  },
+  {
+   "id": "dl1:素云涛",
+   "name": "素云涛",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-素云涛-avatar.webp",
+   "standing": "斗一-素云涛-standing.webp"
+  },
+  {
+   "id": "dl1:紫灵狈",
+   "name": "紫灵狈",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-紫灵狈-avatar.webp",
+   "standing": "斗一-紫灵狈-standing.webp"
+  },
+  {
+   "id": "dl1:紫珍珠",
+   "name": "紫珍珠",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-紫珍珠-avatar.webp",
+   "standing": "斗一-紫珍珠-standing.webp"
+  },
+  {
+   "id": "dl1:绛珠",
+   "name": "绛珠",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-绛珠-avatar.webp",
+   "standing": "斗一-绛珠-standing.webp"
+  },
+  {
+   "id": "dl1:罗三炮",
+   "name": "罗三炮",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-罗三炮-avatar.webp",
+   "standing": "斗一-罗三炮-standing.webp"
+  },
+  {
+   "id": "dl1:翠花",
+   "name": "翠花",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-翠花-avatar.webp",
+   "standing": "斗一-翠花-standing.webp"
+  },
+  {
+   "id": "dl1:老杰克",
+   "name": "老杰克",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-老杰克-avatar.webp",
+   "standing": "斗一-老杰克-standing.webp"
+  },
+  {
+   "id": "dl1:老鹅",
+   "name": "老鹅",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-老鹅-avatar.webp",
+   "standing": "斗一-老鹅-standing.webp"
+  },
+  {
+   "id": "dl1:胡列娜",
+   "name": "胡列娜",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-胡列娜-avatar.webp",
+   "standing": "斗一-胡列娜-standing.webp"
+  },
+  {
+   "id": "dl1:苏主任",
+   "name": "苏主任",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-苏主任-avatar.webp",
+   "standing": "斗一-苏主任-standing.webp"
+  },
+  {
+   "id": "dl1:菊斗罗",
+   "name": "菊斗罗",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-菊斗罗-avatar.webp",
+   "standing": "斗一-菊斗罗-standing.webp"
+  },
+  {
+   "id": "dl1:萧尘宇",
+   "name": "萧尘宇",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-萧尘宇-avatar.webp",
+   "standing": "斗一-萧尘宇-standing.webp"
+  },
+  {
+   "id": "dl1:萨拉斯",
+   "name": "萨拉斯",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-萨拉斯-avatar.webp",
+   "standing": "斗一-萨拉斯-standing.webp"
+  },
+  {
+   "id": "dl1:董慧",
+   "name": "董慧",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-董慧-avatar.webp",
+   "standing": "斗一-董慧-standing.webp"
+  },
+  {
+   "id": "dl1:蓝魔鸟",
+   "name": "蓝魔鸟",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-蓝魔鸟-avatar.webp",
+   "standing": "斗一-蓝魔鸟-standing.webp"
+  },
+  {
+   "id": "dl1:许宇",
+   "name": "许宇",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-许宇-avatar.webp",
+   "standing": "斗一-许宇-standing.webp"
+  },
+  {
+   "id": "dl1:赵无极",
+   "name": "赵无极",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-赵无极-avatar.webp",
+   "standing": "斗一-赵无极-standing.webp"
+  },
+  {
+   "id": "dl1:邪月",
+   "name": "邪月",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-邪月-avatar.webp",
+   "standing": "斗一-邪月-standing.webp"
+  },
+  {
+   "id": "dl1:邪魔虎鲸",
+   "name": "邪魔虎鲸",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-邪魔虎鲸-avatar.webp",
+   "standing": "斗一-邪魔虎鲸-standing.webp"
+  },
+  {
+   "id": "dl1:邪魔虎鲸王",
+   "name": "邪魔虎鲸王",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-邪魔虎鲸王-avatar.webp",
+   "standing": "斗一-邪魔虎鲸王-standing.webp"
+  },
+  {
+   "id": "dl1:邱若水",
+   "name": "邱若水",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-邱若水-avatar.webp",
+   "standing": "斗一-邱若水-standing.webp"
+  },
+  {
+   "id": "dl1:邵鑫",
+   "name": "邵鑫",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-邵鑫-avatar.webp",
+   "standing": "斗一-邵鑫-standing.webp"
+  },
+  {
+   "id": "dl1:金刚虎",
+   "name": "金刚虎",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-金刚虎-avatar.webp",
+   "standing": "斗一-金刚虎-standing.webp"
+  },
+  {
+   "id": "dl1:金鳄斗罗",
+   "name": "金鳄斗罗",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-金鳄斗罗-avatar.webp",
+   "standing": "斗一-金鳄斗罗-standing.webp"
+  },
+  {
+   "id": "dl1:铁心",
+   "name": "铁心",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-铁心-avatar.webp",
+   "standing": "斗一-铁心-standing.webp"
+  },
+  {
+   "id": "dl1:铁虎",
+   "name": "铁虎",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-铁虎-avatar.webp",
+   "standing": "斗一-铁虎-standing.webp"
+  },
+  {
+   "id": "dl1:铁龙",
+   "name": "铁龙",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-铁龙-avatar.webp",
+   "standing": "斗一-铁龙-standing.webp"
+  },
+  {
+   "id": "dl1:银月狼",
+   "name": "银月狼",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-银月狼-avatar.webp",
+   "standing": "斗一-银月狼-standing.webp"
+  },
+  {
+   "id": "dl1:镜影兽",
+   "name": "镜影兽",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-镜影兽-avatar.webp",
+   "standing": "斗一-镜影兽-standing.webp"
+  },
+  {
+   "id": "dl1:阿银",
+   "name": "阿银",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-阿银-avatar.webp",
+   "standing": "斗一-阿银-standing.webp"
+  },
+  {
+   "id": "dl1:降魔斗罗",
+   "name": "降魔斗罗",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-降魔斗罗-avatar.webp",
+   "standing": "斗一-降魔斗罗-standing.webp"
+  },
+  {
+   "id": "dl1:雄狮斗罗",
+   "name": "雄狮斗罗",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-雄狮斗罗-avatar.webp",
+   "standing": "斗一-雄狮斗罗-standing.webp"
+  },
+  {
+   "id": "dl1:雪夜",
+   "name": "雪夜",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-雪夜-avatar.webp",
+   "standing": "斗一-雪夜-standing.webp"
+  },
+  {
+   "id": "dl1:雪夜大帝",
+   "name": "雪夜大帝",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-雪夜大帝-avatar.webp",
+   "standing": "斗一-雪夜大帝-standing.webp"
+  },
+  {
+   "id": "dl1:雪崩",
+   "name": "雪崩",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-雪崩-avatar.webp",
+   "standing": "斗一-雪崩-standing.webp"
+  },
+  {
+   "id": "dl1:雪星",
+   "name": "雪星",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-雪星-avatar.webp",
+   "standing": "斗一-雪星-standing.webp"
+  },
+  {
+   "id": "dl1:雪珂",
+   "name": "雪珂",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-雪珂-avatar.webp",
+   "standing": "斗一-雪珂-standing.webp"
+  },
+  {
+   "id": "dl1:雪舞",
+   "name": "雪舞",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-雪舞-avatar.webp",
+   "standing": "斗一-雪舞-standing.webp"
+  },
+  {
+   "id": "dl1:雷动",
+   "name": "雷动",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-雷动-avatar.webp",
+   "standing": "斗一-雷动-standing.webp"
+  },
+  {
+   "id": "dl1:雷天",
+   "name": "雷天",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-雷天-avatar.webp",
+   "standing": "斗一-雷天-standing.webp"
+  },
+  {
+   "id": "dl1:霍斩疾",
+   "name": "霍斩疾",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-霍斩疾-avatar.webp",
+   "standing": "斗一-霍斩疾-standing.webp"
+  },
+  {
+   "id": "dl1:青鸾斗罗",
+   "name": "青鸾斗罗",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-青鸾斗罗-avatar.webp",
+   "standing": "斗一-青鸾斗罗-standing.webp"
+  },
+  {
+   "id": "dl1:音书",
+   "name": "音书",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-音书-avatar.webp",
+   "standing": "斗一-音书-standing.webp"
+  },
+  {
+   "id": "dl1:顾清波",
+   "name": "顾清波",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-顾清波-avatar.webp",
+   "standing": "斗一-顾清波-standing.webp"
+  },
+  {
+   "id": "dl1:风狒狒",
+   "name": "风狒狒",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-风狒狒-avatar.webp",
+   "standing": "斗一-风狒狒-standing.webp"
+  },
+  {
+   "id": "dl1:风笑天",
+   "name": "风笑天",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-风笑天-avatar.webp",
+   "standing": "斗一-风笑天-standing.webp"
+  },
+  {
+   "id": "dl1:马修诺",
+   "name": "马修诺",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-马修诺-avatar.webp",
+   "standing": "斗一-马修诺-standing.webp"
+  },
+  {
+   "id": "dl1:马红俊",
+   "name": "马红俊",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-马红俊-avatar.webp",
+   "standing": "斗一-马红俊-standing.webp"
+  },
+  {
+   "id": "dl1:鬼斗罗",
+   "name": "鬼斗罗",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-鬼斗罗-avatar.webp",
+   "standing": "斗一-鬼斗罗-standing.webp"
+  },
+  {
+   "id": "dl1:鬼藤",
+   "name": "鬼藤",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-鬼藤-avatar.webp",
+   "standing": "斗一-鬼藤-standing.webp"
+  },
+  {
+   "id": "dl1:鬼虎",
+   "name": "鬼虎",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-鬼虎-avatar.webp",
+   "standing": "斗一-鬼虎-standing.webp"
+  },
+  {
+   "id": "dl1:鬼豹斗罗",
+   "name": "鬼豹斗罗",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-鬼豹斗罗-avatar.webp",
+   "standing": "斗一-鬼豹斗罗-standing.webp"
+  },
+  {
+   "id": "dl1:魔熊斗罗",
+   "name": "魔熊斗罗",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-魔熊斗罗-avatar.webp",
+   "standing": "斗一-魔熊斗罗-standing.webp"
+  },
+  {
+   "id": "dl1:魔魂大白鲨",
+   "name": "魔魂大白鲨",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-魔魂大白鲨-avatar.webp",
+   "standing": "斗一-魔魂大白鲨-standing.webp"
+  },
+  {
+   "id": "dl1:魔魂大白鲨之王",
+   "name": "魔魂大白鲨之王",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-魔魂大白鲨之王-avatar.webp",
+   "standing": "斗一-魔魂大白鲨之王-standing.webp"
+  },
+  {
+   "id": "dl1:黄远",
+   "name": "黄远",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-黄远-avatar.webp",
+   "standing": "斗一-黄远-standing.webp"
+  },
+  {
+   "id": "dl1:龙神",
+   "name": "龙神",
+   "book": "dl1",
+   "aliases": [],
+   "avatar": "斗一-龙神-avatar.webp",
+   "standing": "斗一-龙神-standing.webp"
+  },
+  {
+   "id": "dl3:乐正宇",
+   "name": "乐正宇",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-乐正宇-avatar.webp",
+   "standing": "斗三-乐正宇-standing.webp"
+  },
+  {
+   "id": "dl3:云冥",
+   "name": "云冥",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-云冥-avatar.webp",
+   "standing": "斗三-云冥-standing.webp"
+  },
+  {
+   "id": "dl3:云天恒",
+   "name": "云天恒",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-云天恒-avatar.webp",
+   "standing": "斗三-云天恒-standing.webp"
+  },
+  {
+   "id": "dl3:云小",
+   "name": "云小",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-云小-avatar.webp",
+   "standing": "斗三-云小-standing.webp"
+  },
+  {
+   "id": "dl3:余冠志",
+   "name": "余冠志",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-余冠志-avatar.webp",
+   "standing": "斗三-余冠志-standing.webp"
+  },
+  {
+   "id": "dl3:关月",
+   "name": "关月",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-关月-avatar.webp",
+   "standing": "斗三-关月-standing.webp"
+  },
+  {
+   "id": "dl3:冥帝",
+   "name": "冥帝",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-冥帝-avatar.webp",
+   "standing": "斗三-冥帝-standing.webp"
+  },
+  {
+   "id": "dl3:冷遥茱",
+   "name": "冷遥茱",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-冷遥茱-avatar.webp",
+   "standing": "斗三-冷遥茱-standing.webp"
+  },
+  {
+   "id": "dl3:冷雨莱",
+   "name": "冷雨莱",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-冷雨莱-avatar.webp",
+   "standing": "斗三-冷雨莱-standing.webp"
+  },
+  {
+   "id": "dl3:凌晨",
+   "name": "凌晨",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-凌晨-avatar.webp",
+   "standing": "斗三-凌晨-standing.webp"
+  },
+  {
+   "id": "dl3:千古丈亭",
+   "name": "千古丈亭",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-千古丈亭-avatar.webp",
+   "standing": "斗三-千古丈亭-standing.webp"
+  },
+  {
+   "id": "dl3:千古东风",
+   "name": "千古东风",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-千古东风-avatar.webp",
+   "standing": "斗三-千古东风-standing.webp"
+  },
+  {
+   "id": "dl3:千古清风",
+   "name": "千古清风",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-千古清风-avatar.webp",
+   "standing": "斗三-千古清风-standing.webp"
+  },
+  {
+   "id": "dl3:千古迭廷",
+   "name": "千古迭廷",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-千古迭廷-avatar.webp",
+   "standing": "斗三-千古迭廷-standing.webp"
+  },
+  {
+   "id": "dl3:华涛",
+   "name": "华涛",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-华涛-avatar.webp",
+   "standing": "斗三-华涛-standing.webp"
+  },
+  {
+   "id": "dl3:华蓝堂",
+   "name": "华蓝堂",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-华蓝堂-avatar.webp",
+   "standing": "斗三-华蓝堂-standing.webp"
+  },
+  {
+   "id": "dl3:南宫逸",
+   "name": "南宫逸",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-南宫逸-avatar.webp",
+   "standing": "斗三-南宫逸-standing.webp"
+  },
+  {
+   "id": "dl3:卢宇星",
+   "name": "卢宇星",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-卢宇星-avatar.webp",
+   "standing": "斗三-卢宇星-standing.webp"
+  },
+  {
+   "id": "dl3:原恩夜辉",
+   "name": "原恩夜辉",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-原恩夜辉-avatar.webp",
+   "standing": "斗三-原恩夜辉-standing.webp"
+  },
+  {
+   "id": "dl3:原恩天宕",
+   "name": "原恩天宕",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-原恩天宕-avatar.webp",
+   "standing": "斗三-原恩天宕-standing.webp"
+  },
+  {
+   "id": "dl3:原恩震天",
+   "name": "原恩震天",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-原恩震天-avatar.webp",
+   "standing": "斗三-原恩震天-standing.webp"
+  },
+  {
+   "id": "dl3:古天日",
+   "name": "古天日",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-古天日-avatar.webp",
+   "standing": "斗三-古天日-standing.webp"
+  },
+  {
+   "id": "dl3:古天明",
+   "name": "古天明",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-古天明-avatar.webp",
+   "standing": "斗三-古天明-standing.webp"
+  },
+  {
+   "id": "dl3:古天月",
+   "name": "古天月",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-古天月-avatar.webp",
+   "standing": "斗三-古天月-standing.webp"
+  },
+  {
+   "id": "dl3:古月娜",
+   "name": "古月娜",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-古月娜-avatar.webp",
+   "standing": "斗三-古月娜-standing.webp"
+  },
+  {
+   "id": "dl3:叶星澜",
+   "name": "叶星澜",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-叶星澜-avatar.webp",
+   "standing": "斗三-叶星澜-standing.webp"
+  },
+  {
+   "id": "dl3:叶樱榕",
+   "name": "叶樱榕",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-叶樱榕-avatar.webp",
+   "standing": "斗三-叶樱榕-standing.webp"
+  },
+  {
+   "id": "dl3:叶璎珞",
+   "name": "叶璎珞",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-叶璎珞-avatar.webp",
+   "standing": "斗三-叶璎珞-standing.webp"
+  },
+  {
+   "id": "dl3:司马金驰",
+   "name": "司马金驰",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-司马金驰-avatar.webp",
+   "standing": "斗三-司马金驰-standing.webp"
+  },
+  {
+   "id": "dl3:含蓝",
+   "name": "含蓝",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-含蓝-avatar.webp",
+   "standing": "斗三-含蓝-standing.webp"
+  },
+  {
+   "id": "dl3:唐孜然",
+   "name": "唐孜然",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-唐孜然-avatar.webp",
+   "standing": "斗三-唐孜然-standing.webp"
+  },
+  {
+   "id": "dl3:唐舞麟",
+   "name": "唐舞麟",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-唐舞麟-avatar.webp",
+   "standing": "斗三-唐舞麟-standing.webp"
+  },
+  {
+   "id": "dl3:唐音梦",
+   "name": "唐音梦",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-唐音梦-avatar.webp",
+   "standing": "斗三-唐音梦-standing.webp"
+  },
+  {
+   "id": "dl3:墨蓝",
+   "name": "墨蓝",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-墨蓝-avatar.webp",
+   "standing": "斗三-墨蓝-standing.webp"
+  },
+  {
+   "id": "dl3:夏筝冷",
+   "name": "夏筝冷",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-夏筝冷-avatar.webp",
+   "standing": "斗三-夏筝冷-standing.webp"
+  },
+  {
+   "id": "dl3:大摩",
+   "name": "大摩",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-大摩-avatar.webp",
+   "standing": "斗三-大摩-standing.webp"
+  },
+  {
+   "id": "dl3:姜战恒",
+   "name": "姜战恒",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-姜战恒-avatar.webp",
+   "standing": "斗三-姜战恒-standing.webp"
+  },
+  {
+   "id": "dl3:娜儿",
+   "name": "娜儿",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-娜儿-avatar.webp",
+   "standing": "斗三-娜儿-standing.webp"
+  },
+  {
+   "id": "dl3:娜娜莉",
+   "name": "娜娜莉",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-娜娜莉-avatar.webp",
+   "standing": "斗三-娜娜莉-standing.webp"
+  },
+  {
+   "id": "dl3:帝天",
+   "name": "帝天",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-帝天-avatar.webp",
+   "standing": "斗三-帝天-standing.webp"
+  },
+  {
+   "id": "dl3:张幻云",
+   "name": "张幻云",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-张幻云-avatar.webp",
+   "standing": "斗三-张幻云-standing.webp"
+  },
+  {
+   "id": "dl3:张戈洋",
+   "name": "张戈洋",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-张戈洋-avatar.webp",
+   "standing": "斗三-张戈洋-standing.webp"
+  },
+  {
+   "id": "dl3:张扬子",
+   "name": "张扬子",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-张扬子-avatar.webp",
+   "standing": "斗三-张扬子-standing.webp"
+  },
+  {
+   "id": "dl3:徐愉程",
+   "name": "徐愉程",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-徐愉程-avatar.webp",
+   "standing": "斗三-徐愉程-standing.webp"
+  },
+  {
+   "id": "dl3:徐笠智",
+   "name": "徐笠智",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-徐笠智-avatar.webp",
+   "standing": "斗三-徐笠智-standing.webp"
+  },
+  {
+   "id": "dl3:恩慈",
+   "name": "恩慈",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-恩慈-avatar.webp",
+   "standing": "斗三-恩慈-standing.webp"
+  },
+  {
+   "id": "dl3:慕曦",
+   "name": "慕曦",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-慕曦-avatar.webp",
+   "standing": "斗三-慕曦-standing.webp"
+  },
+  {
+   "id": "dl3:慕辰",
+   "name": "慕辰",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-慕辰-avatar.webp",
+   "standing": "斗三-慕辰-standing.webp"
+  },
+  {
+   "id": "dl3:戴云儿",
+   "name": "戴云儿",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-戴云儿-avatar.webp",
+   "standing": "斗三-戴云儿-standing.webp"
+  },
+  {
+   "id": "dl3:戴天灵",
+   "name": "戴天灵",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-戴天灵-avatar.webp",
+   "standing": "斗三-戴天灵-standing.webp"
+  },
+  {
+   "id": "dl3:戴月炎",
+   "name": "戴月炎",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-戴月炎-avatar.webp",
+   "standing": "斗三-戴月炎-standing.webp"
+  },
+  {
+   "id": "dl3:敖锐",
+   "name": "敖锐",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-敖锐-avatar.webp",
+   "standing": "斗三-敖锐-standing.webp"
+  },
+  {
+   "id": "dl3:方儿",
+   "name": "方儿",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-方儿-avatar.webp",
+   "standing": "斗三-方儿-standing.webp"
+  },
+  {
+   "id": "dl3:曹德智",
+   "name": "曹德智",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-曹德智-avatar.webp",
+   "standing": "斗三-曹德智-standing.webp"
+  },
+  {
+   "id": "dl3:李云喆",
+   "name": "李云喆",
+   "book": "dl3",
+   "aliases": [
+    "李云聪"
+   ],
+   "avatar": "斗三-李云喆-avatar.webp",
+   "standing": "斗三-李云喆-standing.webp"
+  },
+  {
+   "id": "dl3:李梦洁",
+   "name": "李梦洁",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-李梦洁-avatar.webp",
+   "standing": "斗三-李梦洁-standing.webp"
+  },
+  {
+   "id": "dl3:李楚水",
+   "name": "李楚水",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-李楚水-avatar.webp",
+   "standing": "斗三-李楚水-standing.webp"
+  },
+  {
+   "id": "dl3:杨念夏",
+   "name": "杨念夏",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-杨念夏-avatar.webp",
+   "standing": "斗三-杨念夏-standing.webp"
+  },
+  {
+   "id": "dl3:枫无羽",
+   "name": "枫无羽",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-枫无羽-avatar.webp",
+   "standing": "斗三-枫无羽-standing.webp"
+  },
+  {
+   "id": "dl3:桐宇",
+   "name": "桐宇",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-桐宇-avatar.webp",
+   "standing": "斗三-桐宇-standing.webp"
+  },
+  {
+   "id": "dl3:梁晓宇",
+   "name": "梁晓宇",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-梁晓宇-avatar.webp",
+   "standing": "斗三-梁晓宇-standing.webp"
+  },
+  {
+   "id": "dl3:楚天歌",
+   "name": "楚天歌",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-楚天歌-avatar.webp",
+   "standing": "斗三-楚天歌-standing.webp"
+  },
+  {
+   "id": "dl3:欧阳紫馨",
+   "name": "欧阳紫馨",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-欧阳紫馨-avatar.webp",
+   "standing": "斗三-欧阳紫馨-standing.webp"
+  },
+  {
+   "id": "dl3:江五月",
+   "name": "江五月",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-江五月-avatar.webp",
+   "standing": "斗三-江五月-standing.webp"
+  },
+  {
+   "id": "dl3:浊世",
+   "name": "浊世",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-浊世-avatar.webp",
+   "standing": "斗三-浊世-standing.webp"
+  },
+  {
+   "id": "dl3:深渊圣君",
+   "name": "深渊圣君",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-深渊圣君-avatar.webp",
+   "standing": "斗三-深渊圣君-standing.webp"
+  },
+  {
+   "id": "dl3:混元仙草",
+   "name": "混元仙草",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-混元仙草-avatar.webp",
+   "standing": "斗三-混元仙草-standing.webp"
+  },
+  {
+   "id": "dl3:灵帝",
+   "name": "灵帝",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-灵帝-avatar.webp",
+   "standing": "斗三-灵帝-standing.webp"
+  },
+  {
+   "id": "dl3:熊晓玲",
+   "name": "熊晓玲",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-熊晓玲-avatar.webp",
+   "standing": "斗三-熊晓玲-standing.webp"
+  },
+  {
+   "id": "dl3:牧野",
+   "name": "牧野",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-牧野-avatar.webp",
+   "standing": "斗三-牧野-standing.webp"
+  },
+  {
+   "id": "dl3:王金玺",
+   "name": "王金玺",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-王金玺-avatar.webp",
+   "standing": "斗三-王金玺-standing.webp"
+  },
+  {
+   "id": "dl3:白皓泽",
+   "name": "白皓泽",
+   "book": "dl3",
+   "aliases": [
+    "白浩泽"
+   ],
+   "avatar": "斗三-白皓泽-avatar.webp",
+   "standing": "斗三-白皓泽-standing.webp"
+  },
+  {
+   "id": "dl3:白芷岑",
+   "name": "白芷岑",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-白芷岑-avatar.webp",
+   "standing": "斗三-白芷岑-standing.webp"
+  },
+  {
+   "id": "dl3:石梦珊",
+   "name": "石梦珊",
+   "book": "dl3",
+   "aliases": [
+    "石梦姗"
+   ],
+   "avatar": "斗三-石梦珊-avatar.webp",
+   "standing": "斗三-石梦珊-standing.webp"
+  },
+  {
+   "id": "dl3:紫姬",
+   "name": "紫姬",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-紫姬-avatar.webp",
+   "standing": "斗三-紫姬-standing.webp"
+  },
+  {
+   "id": "dl3:罗宇航",
+   "name": "罗宇航",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-罗宇航-avatar.webp",
+   "standing": "斗三-罗宇航-standing.webp"
+  },
+  {
+   "id": "dl3:胡杰",
+   "name": "胡杰",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-胡杰-avatar.webp",
+   "standing": "斗三-胡杰-standing.webp"
+  },
+  {
+   "id": "dl3:臧鑫",
+   "name": "臧鑫",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-臧鑫-avatar.webp",
+   "standing": "斗三-臧鑫-standing.webp"
+  },
+  {
+   "id": "dl3:舞丝朵",
+   "name": "舞丝朵",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-舞丝朵-avatar.webp",
+   "standing": "斗三-舞丝朵-standing.webp"
+  },
+  {
+   "id": "dl3:舞长空",
+   "name": "舞长空",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-舞长空-avatar.webp",
+   "standing": "斗三-舞长空-standing.webp"
+  },
+  {
+   "id": "dl3:苏梦君",
+   "name": "苏梦君",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-苏梦君-avatar.webp",
+   "standing": "斗三-苏梦君-standing.webp"
+  },
+  {
+   "id": "dl3:莫梓鸿",
+   "name": "莫梓鸿",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-莫梓鸿-avatar.webp",
+   "standing": "斗三-莫梓鸿-standing.webp"
+  },
+  {
+   "id": "dl3:董子安",
+   "name": "董子安",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-董子安-avatar.webp",
+   "standing": "斗三-董子安-standing.webp"
+  },
+  {
+   "id": "dl3:蓝木子",
+   "name": "蓝木子",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-蓝木子-avatar.webp",
+   "standing": "斗三-蓝木子-standing.webp"
+  },
+  {
+   "id": "dl3:蔡月儿",
+   "name": "蔡月儿",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-蔡月儿-avatar.webp",
+   "standing": "斗三-蔡月儿-standing.webp"
+  },
+  {
+   "id": "dl3:薛云天",
+   "name": "薛云天",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-薛云天-avatar.webp",
+   "standing": "斗三-薛云天-standing.webp"
+  },
+  {
+   "id": "dl3:血七",
+   "name": "血七",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-血七-avatar.webp",
+   "standing": "斗三-血七-standing.webp"
+  },
+  {
+   "id": "dl3:血九",
+   "name": "血九",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-血九-avatar.webp",
+   "standing": "斗三-血九-standing.webp"
+  },
+  {
+   "id": "dl3:血二",
+   "name": "血二",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-血二-avatar.webp",
+   "standing": "斗三-血二-standing.webp"
+  },
+  {
+   "id": "dl3:血五",
+   "name": "血五",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-血五-avatar.webp",
+   "standing": "斗三-血五-standing.webp"
+  },
+  {
+   "id": "dl3:血八",
+   "name": "血八",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-血八-avatar.webp",
+   "standing": "斗三-血八-standing.webp"
+  },
+  {
+   "id": "dl3:血六",
+   "name": "血六",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-血六-avatar.webp",
+   "standing": "斗三-血六-standing.webp"
+  },
+  {
+   "id": "dl3:血四",
+   "name": "血四",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-血四-avatar.webp",
+   "standing": "斗三-血四-standing.webp"
+  },
+  {
+   "id": "dl3:许小言",
+   "name": "许小言",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-许小言-avatar.webp",
+   "standing": "斗三-许小言-standing.webp"
+  },
+  {
+   "id": "dl3:许晓语",
+   "name": "许晓语",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-许晓语-avatar.webp",
+   "standing": "斗三-许晓语-standing.webp"
+  },
+  {
+   "id": "dl3:许米儿",
+   "name": "许米儿",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-许米儿-avatar.webp",
+   "standing": "斗三-许米儿-standing.webp"
+  },
+  {
+   "id": "dl3:谢邂",
+   "name": "谢邂",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-谢邂-avatar.webp",
+   "standing": "斗三-谢邂-standing.webp"
+  },
+  {
+   "id": "dl3:赤山明",
+   "name": "赤山明",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-赤山明-avatar.webp",
+   "standing": "斗三-赤山明-standing.webp"
+  },
+  {
+   "id": "dl3:赵松",
+   "name": "赵松",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-赵松-avatar.webp",
+   "standing": "斗三-赵松-standing.webp"
+  },
+  {
+   "id": "dl3:邙天",
+   "name": "邙天",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-邙天-avatar.webp",
+   "standing": "斗三-邙天-standing.webp"
+  },
+  {
+   "id": "dl3:郁朕",
+   "name": "郁朕",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-郁朕-avatar.webp",
+   "standing": "斗三-郁朕-standing.webp"
+  },
+  {
+   "id": "dl3:郑怡然",
+   "name": "郑怡然",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-郑怡然-avatar.webp",
+   "standing": "斗三-郑怡然-standing.webp"
+  },
+  {
+   "id": "dl3:郭萧絮",
+   "name": "郭萧絮",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-郭萧絮-avatar.webp",
+   "standing": "斗三-郭萧絮-standing.webp"
+  },
+  {
+   "id": "dl3:金语",
+   "name": "金语",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-金语-avatar.webp",
+   "standing": "斗三-金语-standing.webp"
+  },
+  {
+   "id": "dl3:阿如恒",
+   "name": "阿如恒",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-阿如恒-avatar.webp",
+   "standing": "斗三-阿如恒-standing.webp"
+  },
+  {
+   "id": "dl3:陈新杰",
+   "name": "陈新杰",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-陈新杰-avatar.webp",
+   "standing": "斗三-陈新杰-standing.webp"
+  },
+  {
+   "id": "dl3:陶柳帆",
+   "name": "陶柳帆",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-陶柳帆-avatar.webp",
+   "standing": "斗三-陶柳帆-standing.webp"
+  },
+  {
+   "id": "dl3:雅莉",
+   "name": "雅莉",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-雅莉-avatar.webp",
+   "standing": "斗三-雅莉-standing.webp"
+  },
+  {
+   "id": "dl3:震华",
+   "name": "震华",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-震华-avatar.webp",
+   "standing": "斗三-震华-standing.webp"
+  },
+  {
+   "id": "dl3:霸王龙",
+   "name": "霸王龙",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-霸王龙-avatar.webp",
+   "standing": "斗三-霸王龙-standing.webp"
+  },
+  {
+   "id": "dl3:韦小枫",
+   "name": "韦小枫",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-韦小枫-avatar.webp",
+   "standing": "斗三-韦小枫-standing.webp"
+  },
+  {
+   "id": "dl3:骆桂星",
+   "name": "骆桂星",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-骆桂星-avatar.webp",
+   "standing": "斗三-骆桂星-standing.webp"
+  },
+  {
+   "id": "dl3:鬼帝",
+   "name": "鬼帝",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-鬼帝-avatar.webp",
+   "standing": "斗三-鬼帝-standing.webp"
+  },
+  {
+   "id": "dl3:魔皇",
+   "name": "魔皇",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-魔皇-avatar.webp",
+   "standing": "斗三-魔皇-standing.webp"
+  },
+  {
+   "id": "dl3:黄正洋",
+   "name": "黄正洋",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-黄正洋-avatar.webp",
+   "standing": "斗三-黄正洋-standing.webp"
+  },
+  {
+   "id": "dl3:黑暗蜂鸟",
+   "name": "黑暗蜂鸟",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-黑暗蜂鸟-avatar.webp",
+   "standing": "斗三-黑暗蜂鸟-standing.webp"
+  },
+  {
+   "id": "dl3:黑暗血魔",
+   "name": "黑暗血魔",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-黑暗血魔-avatar.webp",
+   "standing": "斗三-黑暗血魔-standing.webp"
+  },
+  {
+   "id": "dl3:龙冰",
+   "name": "龙冰",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-龙冰-avatar.webp",
+   "standing": "斗三-龙冰-standing.webp"
+  },
+  {
+   "id": "dl3:龙夜月",
+   "name": "龙夜月",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-龙夜月-avatar.webp",
+   "standing": "斗三-龙夜月-standing.webp"
+  },
+  {
+   "id": "dl3:龙天舞",
+   "name": "龙天舞",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-龙天舞-avatar.webp",
+   "standing": "斗三-龙天舞-standing.webp"
+  },
+  {
+   "id": "dl3:龙恒旭",
+   "name": "龙恒旭",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-龙恒旭-avatar.webp",
+   "standing": "斗三-龙恒旭-standing.webp"
+  },
+  {
+   "id": "dl3:龙跃",
+   "name": "龙跃",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-龙跃-avatar.webp",
+   "standing": "斗三-龙跃-standing.webp"
+  },
+  {
+   "id": "dl3:龙雨雪",
+   "name": "龙雨雪",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-龙雨雪-avatar.webp",
+   "standing": "斗三-龙雨雪-standing.webp"
+  },
+  {
+   "id": "dl2:万妖王",
+   "name": "万妖王",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-万妖王-avatar.webp",
+   "standing": "斗二-万妖王-standing.webp"
+  },
+  {
+   "id": "dl2:万魂斗罗",
+   "name": "万魂斗罗",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-万魂斗罗-avatar.webp",
+   "standing": "斗二-万魂斗罗-standing.webp"
+  },
+  {
+   "id": "dl2:上官残",
+   "name": "上官残",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-上官残-avatar.webp",
+   "standing": "斗二-上官残-standing.webp"
+  },
+  {
+   "id": "dl2:上官薇儿",
+   "name": "上官薇儿",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-上官薇儿-avatar.webp",
+   "standing": "斗二-上官薇儿-standing.webp"
+  },
+  {
+   "id": "dl2:丽雅",
+   "name": "丽雅",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-丽雅-avatar.webp",
+   "standing": "斗二-丽雅-standing.webp"
+  },
+  {
+   "id": "dl2:乌云",
+   "name": "乌云",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-乌云-avatar.webp",
+   "standing": "斗二-乌云-standing.webp"
+  },
+  {
+   "id": "dl2:仙琳儿",
+   "name": "仙琳儿",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-仙琳儿-avatar.webp",
+   "standing": "斗二-仙琳儿-standing.webp"
+  },
+  {
+   "id": "dl2:伊莱克斯",
+   "name": "伊莱克斯",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-伊莱克斯-avatar.webp",
+   "standing": "斗二-伊莱克斯-standing.webp"
+  },
+  {
+   "id": "dl2:余云飞",
+   "name": "余云飞",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-余云飞-avatar.webp",
+   "standing": "斗二-余云飞-standing.webp"
+  },
+  {
+   "id": "dl2:假面斗罗",
+   "name": "假面斗罗",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-假面斗罗-avatar.webp",
+   "standing": "斗二-假面斗罗-standing.webp"
+  },
+  {
+   "id": "dl2:八角",
+   "name": "八角",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-八角-avatar.webp",
+   "standing": "斗二-八角-standing.webp"
+  },
+  {
+   "id": "dl2:公爵侧妃",
+   "name": "公爵侧妃",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-公爵侧妃-avatar.webp",
+   "standing": "斗二-公爵侧妃-standing.webp"
+  },
+  {
+   "id": "dl2:公羊墨",
+   "name": "公羊墨",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-公羊墨-avatar.webp",
+   "standing": "斗二-公羊墨-standing.webp"
+  },
+  {
+   "id": "dl2:冥雷斗罗",
+   "name": "冥雷斗罗",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-冥雷斗罗-avatar.webp",
+   "standing": "斗二-冥雷斗罗-standing.webp"
+  },
+  {
+   "id": "dl2:冰帝",
+   "name": "冰帝",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-冰帝-avatar.webp",
+   "standing": "斗二-冰帝-standing.webp"
+  },
+  {
+   "id": "dl2:凤菱",
+   "name": "凤菱",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-凤菱-avatar.webp",
+   "standing": "斗二-凤菱-standing.webp"
+  },
+  {
+   "id": "dl2:南宫碗",
+   "name": "南宫碗",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-南宫碗-avatar.webp",
+   "standing": "斗二-南宫碗-standing.webp"
+  },
+  {
+   "id": "dl2:南水水",
+   "name": "南水水",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-南水水-avatar.webp",
+   "standing": "斗二-南水水-standing.webp"
+  },
+  {
+   "id": "dl2:南秋秋",
+   "name": "南秋秋",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-南秋秋-avatar.webp",
+   "standing": "斗二-南秋秋-standing.webp"
+  },
+  {
+   "id": "dl2:南门允儿",
+   "name": "南门允儿",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-南门允儿-avatar.webp",
+   "standing": "斗二-南门允儿-standing.webp"
+  },
+  {
+   "id": "dl2:叶夕水",
+   "name": "叶夕水",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-叶夕水-avatar.webp",
+   "standing": "斗二-叶夕水-standing.webp"
+  },
+  {
+   "id": "dl2:叶无情",
+   "name": "叶无情",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-叶无情-avatar.webp",
+   "standing": "斗二-叶无情-standing.webp"
+  },
+  {
+   "id": "dl2:叶雨霖",
+   "name": "叶雨霖",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-叶雨霖-avatar.webp",
+   "standing": "斗二-叶雨霖-standing.webp"
+  },
+  {
+   "id": "dl2:叶骨衣",
+   "name": "叶骨衣",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-叶骨衣-avatar.webp",
+   "standing": "斗二-叶骨衣-standing.webp"
+  },
+  {
+   "id": "dl2:司徒宇",
+   "name": "司徒宇",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-司徒宇-avatar.webp",
+   "standing": "斗二-司徒宇-standing.webp"
+  },
+  {
+   "id": "dl2:吉利",
+   "name": "吉利",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-吉利-avatar.webp",
+   "standing": "斗二-吉利-standing.webp"
+  },
+  {
+   "id": "dl2:吴比凡",
+   "name": "吴比凡",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-吴比凡-avatar.webp",
+   "standing": "斗二-吴比凡-standing.webp"
+  },
+  {
+   "id": "dl2:周思陈",
+   "name": "周思陈",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-周思陈-avatar.webp",
+   "standing": "斗二-周思陈-standing.webp"
+  },
+  {
+   "id": "dl2:周漪",
+   "name": "周漪",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-周漪-avatar.webp",
+   "standing": "斗二-周漪-standing.webp"
+  },
+  {
+   "id": "dl2:和菜头",
+   "name": "和菜头",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-和菜头-avatar.webp",
+   "standing": "斗二-和菜头-standing.webp"
+  },
+  {
+   "id": "dl2:唐舞桐",
+   "name": "唐舞桐",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-唐舞桐-avatar.webp",
+   "standing": "斗二-唐舞桐-standing.webp"
+  },
+  {
+   "id": "dl2:唐逍泪",
+   "name": "唐逍泪",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-唐逍泪-avatar.webp",
+   "standing": "斗二-唐逍泪-standing.webp"
+  },
+  {
+   "id": "dl2:唐雅",
+   "name": "唐雅",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-唐雅-avatar.webp",
+   "standing": "斗二-唐雅-standing.webp"
+  },
+  {
+   "id": "dl2:墨轩",
+   "name": "墨轩",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-墨轩-avatar.webp",
+   "standing": "斗二-墨轩-standing.webp"
+  },
+  {
+   "id": "dl2:天梦冰蚕",
+   "name": "天梦冰蚕",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-天梦冰蚕-avatar.webp",
+   "standing": "斗二-天梦冰蚕-standing.webp"
+  },
+  {
+   "id": "dl2:天阳斗罗",
+   "name": "天阳斗罗",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-天阳斗罗-avatar.webp",
+   "standing": "斗二-天阳斗罗-standing.webp"
+  },
+  {
+   "id": "dl2:天鲲斗罗",
+   "name": "天鲲斗罗",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-天鲲斗罗-avatar.webp",
+   "standing": "斗二-天鲲斗罗-standing.webp"
+  },
+  {
+   "id": "dl2:天龙斗罗",
+   "name": "天龙斗罗",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-天龙斗罗-avatar.webp",
+   "standing": "斗二-天龙斗罗-standing.webp"
+  },
+  {
+   "id": "dl2:天龙马",
+   "name": "天龙马",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-天龙马-avatar.webp",
+   "standing": "斗二-天龙马-standing.webp"
+  },
+  {
+   "id": "dl2:姚浩轩",
+   "name": "姚浩轩",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-姚浩轩-avatar.webp",
+   "standing": "斗二-姚浩轩-standing.webp"
+  },
+  {
+   "id": "dl2:娜娜",
+   "name": "娜娜",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-娜娜-avatar.webp",
+   "standing": "斗二-娜娜-standing.webp"
+  },
+  {
+   "id": "dl2:孔德明",
+   "name": "孔德明",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-孔德明-avatar.webp",
+   "standing": "斗二-孔德明-standing.webp"
+  },
+  {
+   "id": "dl2:季红染",
+   "name": "季红染",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-季红染-avatar.webp",
+   "standing": "斗二-季红染-standing.webp"
+  },
+  {
+   "id": "dl2:季绝尘",
+   "name": "季绝尘",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-季绝尘-avatar.webp",
+   "standing": "斗二-季绝尘-standing.webp"
+  },
+  {
+   "id": "dl2:宁天",
+   "name": "宁天",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-宁天-avatar.webp",
+   "standing": "斗二-宁天-standing.webp"
+  },
+  {
+   "id": "dl2:宇梦迪",
+   "name": "宇梦迪",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-宇梦迪-avatar.webp",
+   "standing": "斗二-宇梦迪-standing.webp"
+  },
+  {
+   "id": "dl2:安冷夜",
+   "name": "安冷夜",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-安冷夜-avatar.webp",
+   "standing": "斗二-安冷夜-standing.webp"
+  },
+  {
+   "id": "dl2:宋老",
+   "name": "宋老",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-宋老-avatar.webp",
+   "standing": "斗二-宋老-standing.webp"
+  },
+  {
+   "id": "dl2:寒若若",
+   "name": "寒若若",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-寒若若-avatar.webp",
+   "standing": "斗二-寒若若-standing.webp"
+  },
+  {
+   "id": "dl2:小疯",
+   "name": "小疯",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-小疯-avatar.webp",
+   "standing": "斗二-小疯-standing.webp"
+  },
+  {
+   "id": "dl2:小白",
+   "name": "小白",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-小白-avatar.webp",
+   "standing": "斗二-小白-standing.webp"
+  },
+  {
+   "id": "dl2:崔雅洁",
+   "name": "崔雅洁",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-崔雅洁-avatar.webp",
+   "standing": "斗二-崔雅洁-standing.webp"
+  },
+  {
+   "id": "dl2:巨槌斗罗",
+   "name": "巨槌斗罗",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-巨槌斗罗-avatar.webp",
+   "standing": "斗二-巨槌斗罗-standing.webp"
+  },
+  {
+   "id": "dl2:巫云",
+   "name": "巫云",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-巫云-avatar.webp",
+   "standing": "斗二-巫云-standing.webp"
+  },
+  {
+   "id": "dl2:巫风",
+   "name": "巫风",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-巫风-avatar.webp",
+   "standing": "斗二-巫风-standing.webp"
+  },
+  {
+   "id": "dl2:帆羽",
+   "name": "帆羽",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-帆羽-avatar.webp",
+   "standing": "斗二-帆羽-standing.webp"
+  },
+  {
+   "id": "dl2:幽辰",
+   "name": "幽辰",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-幽辰-avatar.webp",
+   "standing": "斗二-幽辰-standing.webp"
+  },
+  {
+   "id": "dl2:廖梦凯",
+   "name": "廖梦凯",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-廖梦凯-avatar.webp",
+   "standing": "斗二-廖梦凯-standing.webp"
+  },
+  {
+   "id": "dl2:弓长龙",
+   "name": "弓长龙",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-弓长龙-avatar.webp",
+   "standing": "斗二-弓长龙-standing.webp"
+  },
+  {
+   "id": "dl2:张乐萱",
+   "name": "张乐萱",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-张乐萱-avatar.webp",
+   "standing": "斗二-张乐萱-standing.webp"
+  },
+  {
+   "id": "dl2:张鹏",
+   "name": "张鹏",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-张鹏-avatar.webp",
+   "standing": "斗二-张鹏-standing.webp"
+  },
+  {
+   "id": "dl2:徐三石",
+   "name": "徐三石",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-徐三石-avatar.webp",
+   "standing": "斗二-徐三石-standing.webp"
+  },
+  {
+   "id": "dl2:徐云瀚",
+   "name": "徐云瀚",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-徐云瀚-avatar.webp",
+   "standing": "斗二-徐云瀚-standing.webp"
+  },
+  {
+   "id": "dl2:徐天元",
+   "name": "徐天元",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-徐天元-avatar.webp",
+   "standing": "斗二-徐天元-standing.webp"
+  },
+  {
+   "id": "dl2:徐天然",
+   "name": "徐天然",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-徐天然-avatar.webp",
+   "standing": "斗二-徐天然-standing.webp"
+  },
+  {
+   "id": "dl2:徐天真",
+   "name": "徐天真",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-徐天真-avatar.webp",
+   "standing": "斗二-徐天真-standing.webp"
+  },
+  {
+   "id": "dl2:憎恶斗罗",
+   "name": "憎恶斗罗",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-憎恶斗罗-avatar.webp",
+   "standing": "斗二-憎恶斗罗-standing.webp"
+  },
+  {
+   "id": "dl2:戴华斌",
+   "name": "戴华斌",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-戴华斌-avatar.webp",
+   "standing": "斗二-戴华斌-standing.webp"
+  },
+  {
+   "id": "dl2:戴洛黎",
+   "name": "戴洛黎",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-戴洛黎-avatar.webp",
+   "standing": "斗二-戴洛黎-standing.webp"
+  },
+  {
+   "id": "dl2:戴浩",
+   "name": "戴浩",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-戴浩-avatar.webp",
+   "standing": "斗二-戴浩-standing.webp"
+  },
+  {
+   "id": "dl2:戴钥衡",
+   "name": "戴钥衡",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-戴钥衡-avatar.webp",
+   "standing": "斗二-戴钥衡-standing.webp"
+  },
+  {
+   "id": "dl2:时兴",
+   "name": "时兴",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-时兴-avatar.webp",
+   "standing": "斗二-时兴-standing.webp"
+  },
+  {
+   "id": "dl2:星焱",
+   "name": "星焱",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-星焱-avatar.webp",
+   "standing": "斗二-星焱-standing.webp"
+  },
+  {
+   "id": "dl2:暮雪",
+   "name": "暮雪",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-暮雪-avatar.webp",
+   "standing": "斗二-暮雪-standing.webp"
+  },
+  {
+   "id": "dl2:曹瑾轩",
+   "name": "曹瑾轩",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-曹瑾轩-avatar.webp",
+   "standing": "斗二-曹瑾轩-standing.webp"
+  },
+  {
+   "id": "dl2:月鹿斗罗",
+   "name": "月鹿斗罗",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-月鹿斗罗-avatar.webp",
+   "standing": "斗二-月鹿斗罗-standing.webp"
+  },
+  {
+   "id": "dl2:木槿",
+   "name": "木槿",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-木槿-avatar.webp",
+   "standing": "斗二-木槿-standing.webp"
+  },
+  {
+   "id": "dl2:朱露",
+   "name": "朱露",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-朱露-avatar.webp",
+   "standing": "斗二-朱露-standing.webp"
+  },
+  {
+   "id": "dl2:杨一凡",
+   "name": "杨一凡",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-杨一凡-avatar.webp",
+   "standing": "斗二-杨一凡-standing.webp"
+  },
+  {
+   "id": "dl2:林慧群",
+   "name": "林慧群",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-林慧群-avatar.webp",
+   "standing": "斗二-林慧群-standing.webp"
+  },
+  {
+   "id": "dl2:梁默",
+   "name": "梁默",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-梁默-avatar.webp",
+   "standing": "斗二-梁默-standing.webp"
+  },
+  {
+   "id": "dl2:梦红尘",
+   "name": "梦红尘",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-梦红尘-avatar.webp",
+   "standing": "斗二-梦红尘-standing.webp"
+  },
+  {
+   "id": "dl2:橘子",
+   "name": "橘子",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-橘子-avatar.webp",
+   "standing": "斗二-橘子-standing.webp"
+  },
+  {
+   "id": "dl2:欧阳俊逸",
+   "name": "欧阳俊逸",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-欧阳俊逸-avatar.webp",
+   "standing": "斗二-欧阳俊逸-standing.webp"
+  },
+  {
+   "id": "dl2:毒不死",
+   "name": "毒不死",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-毒不死-avatar.webp",
+   "standing": "斗二-毒不死-standing.webp"
+  },
+  {
+   "id": "dl2:毒必死",
+   "name": "毒必死",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-毒必死-avatar.webp",
+   "standing": "斗二-毒必死-standing.webp"
+  },
+  {
+   "id": "dl2:江楠楠",
+   "name": "江楠楠",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-江楠楠-avatar.webp",
+   "standing": "斗二-江楠楠-standing.webp"
+  },
+  {
+   "id": "dl2:沈策",
+   "name": "沈策",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-沈策-avatar.webp",
+   "standing": "斗二-沈策-standing.webp"
+  },
+  {
+   "id": "dl2:泰坦雪魔王",
+   "name": "泰坦雪魔王",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-泰坦雪魔王-avatar.webp",
+   "standing": "斗二-泰坦雪魔王-standing.webp"
+  },
+  {
+   "id": "dl2:清雅",
+   "name": "清雅",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-清雅-avatar.webp",
+   "standing": "斗二-清雅-standing.webp"
+  },
+  {
+   "id": "dl2:漫依",
+   "name": "漫依",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-漫依-avatar.webp",
+   "standing": "斗二-漫依-standing.webp"
+  },
+  {
+   "id": "dl2:焰儿",
+   "name": "焰儿",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-焰儿-avatar.webp",
+   "standing": "斗二-焰儿-standing.webp"
+  },
+  {
+   "id": "dl2:熊君",
+   "name": "熊君",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-熊君-avatar.webp",
+   "standing": "斗二-熊君-standing.webp"
+  },
+  {
+   "id": "dl2:爱神",
+   "name": "爱神",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-爱神-avatar.webp",
+   "standing": "斗二-爱神-standing.webp"
+  },
+  {
+   "id": "dl2:狂牛斗罗·王奕衡",
+   "name": "狂牛斗罗·王奕衡",
+   "book": "dl2",
+   "aliases": [
+    "王奕衡"
+   ],
+   "avatar": "斗二-狂牛斗罗·王奕衡-avatar.webp",
+   "standing": "斗二-狂牛斗罗·王奕衡-standing.webp"
+  },
+  {
+   "id": "dl2:玄丝斗罗",
+   "name": "玄丝斗罗",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-玄丝斗罗-avatar.webp",
+   "standing": "斗二-玄丝斗罗-standing.webp"
+  },
+  {
+   "id": "dl2:玄子",
+   "name": "玄子",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-玄子-avatar.webp",
+   "standing": "斗二-玄子-standing.webp"
+  },
+  {
+   "id": "dl2:玉天龙",
+   "name": "玉天龙",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-玉天龙-avatar.webp",
+   "standing": "斗二-玉天龙-standing.webp"
+  },
+  {
+   "id": "dl2:王仙儿",
+   "name": "王仙儿",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-王仙儿-avatar.webp",
+   "standing": "斗二-王仙儿-standing.webp"
+  },
+  {
+   "id": "dl2:王冬儿",
+   "name": "王冬儿",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-王冬儿-avatar.webp",
+   "standing": "斗二-王冬儿-standing.webp"
+  },
+  {
+   "id": "dl2:王奕衡",
+   "name": "王奕衡",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-王奕衡-avatar.webp",
+   "standing": "斗二-王奕衡-standing.webp"
+  },
+  {
+   "id": "dl2:王小磊",
+   "name": "王小磊",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-王小磊-avatar.webp",
+   "standing": "斗二-王小磊-standing.webp"
+  },
+  {
+   "id": "dl2:王彦峰",
+   "name": "王彦峰",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-王彦峰-avatar.webp",
+   "standing": "斗二-王彦峰-standing.webp"
+  },
+  {
+   "id": "dl2:王秋儿",
+   "name": "王秋儿",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-王秋儿-avatar.webp",
+   "standing": "斗二-王秋儿-standing.webp"
+  },
+  {
+   "id": "dl2:王程惜",
+   "name": "王程惜",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-王程惜-avatar.webp",
+   "standing": "斗二-王程惜-standing.webp"
+  },
+  {
+   "id": "dl2:王言",
+   "name": "王言",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-王言-avatar.webp",
+   "standing": "斗二-王言-standing.webp"
+  },
+  {
+   "id": "dl2:珂珂",
+   "name": "珂珂",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-珂珂-avatar.webp",
+   "standing": "斗二-珂珂-standing.webp"
+  },
+  {
+   "id": "dl2:璇玑斗罗",
+   "name": "璇玑斗罗",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-璇玑斗罗-avatar.webp",
+   "standing": "斗二-璇玑斗罗-standing.webp"
+  },
+  {
+   "id": "dl2:田蓬",
+   "name": "田蓬",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-田蓬-avatar.webp",
+   "standing": "斗二-田蓬-standing.webp"
+  },
+  {
+   "id": "dl2:白虎公爵夫人",
+   "name": "白虎公爵夫人",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-白虎公爵夫人-avatar.webp",
+   "standing": "斗二-白虎公爵夫人-standing.webp"
+  },
+  {
+   "id": "dl2:白骨斗罗",
+   "name": "白骨斗罗",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-白骨斗罗-avatar.webp",
+   "standing": "斗二-白骨斗罗-standing.webp"
+  },
+  {
+   "id": "dl2:睡魇斗罗",
+   "name": "睡魇斗罗",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-睡魇斗罗-avatar.webp",
+   "standing": "斗二-睡魇斗罗-standing.webp"
+  },
+  {
+   "id": "dl2:碎星斗罗",
+   "name": "碎星斗罗",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-碎星斗罗-avatar.webp",
+   "standing": "斗二-碎星斗罗-standing.webp"
+  },
+  {
+   "id": "dl2:碧姬",
+   "name": "碧姬",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-碧姬-avatar.webp",
+   "standing": "斗二-碧姬-standing.webp"
+  },
+  {
+   "id": "dl2:秦月月",
+   "name": "秦月月",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-秦月月-avatar.webp",
+   "standing": "斗二-秦月月-standing.webp"
+  },
+  {
+   "id": "dl2:程刚",
+   "name": "程刚",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-程刚-avatar.webp",
+   "standing": "斗二-程刚-standing.webp"
+  },
+  {
+   "id": "dl2:穆恩",
+   "name": "穆恩",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-穆恩-avatar.webp",
+   "standing": "斗二-穆恩-standing.webp"
+  },
+  {
+   "id": "dl2:穆笙笙",
+   "name": "穆笙笙",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-穆笙笙-avatar.webp",
+   "standing": "斗二-穆笙笙-standing.webp"
+  },
+  {
+   "id": "dl2:笑红尘",
+   "name": "笑红尘",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-笑红尘-avatar.webp",
+   "standing": "斗二-笑红尘-standing.webp"
+  },
+  {
+   "id": "dl2:紫光斗罗",
+   "name": "紫光斗罗",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-紫光斗罗-avatar.webp",
+   "standing": "斗二-紫光斗罗-standing.webp"
+  },
+  {
+   "id": "dl2:绯羽焱",
+   "name": "绯羽焱",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-绯羽焱-avatar.webp",
+   "standing": "斗二-绯羽焱-standing.webp"
+  },
+  {
+   "id": "dl2:维娜",
+   "name": "维娜",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-维娜-avatar.webp",
+   "standing": "斗二-维娜-standing.webp"
+  },
+  {
+   "id": "dl2:罗天霸",
+   "name": "罗天霸",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-罗天霸-avatar.webp",
+   "standing": "斗二-罗天霸-standing.webp"
+  },
+  {
+   "id": "dl2:罗天龙",
+   "name": "罗天龙",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-罗天龙-avatar.webp",
+   "standing": "斗二-罗天龙-standing.webp"
+  },
+  {
+   "id": "dl2:翼火斗罗",
+   "name": "翼火斗罗",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-翼火斗罗-avatar.webp",
+   "standing": "斗二-翼火斗罗-standing.webp"
+  },
+  {
+   "id": "dl2:胭脂软筋蟒",
+   "name": "胭脂软筋蟒",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-胭脂软筋蟒-avatar.webp",
+   "standing": "斗二-胭脂软筋蟒-standing.webp"
+  },
+  {
+   "id": "dl2:苏老",
+   "name": "苏老",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-苏老-avatar.webp",
+   "standing": "斗二-苏老-standing.webp"
+  },
+  {
+   "id": "dl2:荆紫烟",
+   "name": "荆紫烟",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-荆紫烟-avatar.webp",
+   "standing": "斗二-荆紫烟-standing.webp"
+  },
+  {
+   "id": "dl2:萧萧",
+   "name": "萧萧",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-萧萧-avatar.webp",
+   "standing": "斗二-萧萧-standing.webp"
+  },
+  {
+   "id": "dl2:蓝洛洛",
+   "name": "蓝洛洛",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-蓝洛洛-avatar.webp",
+   "standing": "斗二-蓝洛洛-standing.webp"
+  },
+  {
+   "id": "dl2:蓝素素",
+   "name": "蓝素素",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-蓝素素-avatar.webp",
+   "standing": "斗二-蓝素素-standing.webp"
+  },
+  {
+   "id": "dl2:蔡媚儿",
+   "name": "蔡媚儿",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-蔡媚儿-avatar.webp",
+   "standing": "斗二-蔡媚儿-standing.webp"
+  },
+  {
+   "id": "dl2:虚瞳斗罗",
+   "name": "虚瞳斗罗",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-虚瞳斗罗-avatar.webp",
+   "standing": "斗二-虚瞳斗罗-standing.webp"
+  },
+  {
+   "id": "dl2:血狼",
+   "name": "血狼",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-血狼-avatar.webp",
+   "standing": "斗二-血狼-standing.webp"
+  },
+  {
+   "id": "dl2:西西",
+   "name": "西西",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-西西-avatar.webp",
+   "standing": "斗二-西西-standing.webp"
+  },
+  {
+   "id": "dl2:言少哲",
+   "name": "言少哲",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-言少哲-avatar.webp",
+   "standing": "斗二-言少哲-standing.webp"
+  },
+  {
+   "id": "dl2:言风",
+   "name": "言风",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-言风-avatar.webp",
+   "standing": "斗二-言风-standing.webp"
+  },
+  {
+   "id": "dl2:许久久",
+   "name": "许久久",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-许久久-avatar.webp",
+   "standing": "斗二-许久久-standing.webp"
+  },
+  {
+   "id": "dl2:许云",
+   "name": "许云",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-许云-avatar.webp",
+   "standing": "斗二-许云-standing.webp"
+  },
+  {
+   "id": "dl2:许家伟",
+   "name": "许家伟",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-许家伟-avatar.webp",
+   "standing": "斗二-许家伟-standing.webp"
+  },
+  {
+   "id": "dl2:该隐",
+   "name": "该隐",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-该隐-avatar.webp",
+   "standing": "斗二-该隐-standing.webp"
+  },
+  {
+   "id": "dl2:谭飒",
+   "name": "谭飒",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-谭飒-avatar.webp",
+   "standing": "斗二-谭飒-standing.webp"
+  },
+  {
+   "id": "dl2:谷宇",
+   "name": "谷宇",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-谷宇-avatar.webp",
+   "standing": "斗二-谷宇-standing.webp"
+  },
+  {
+   "id": "dl2:贝贝",
+   "name": "贝贝",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-贝贝-avatar.webp",
+   "standing": "斗二-贝贝-standing.webp"
+  },
+  {
+   "id": "dl2:赏月",
+   "name": "赏月",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-赏月-avatar.webp",
+   "standing": "斗二-赏月-standing.webp"
+  },
+  {
+   "id": "dl2:赤王",
+   "name": "赤王",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-赤王-avatar.webp",
+   "standing": "斗二-赤王-standing.webp"
+  },
+  {
+   "id": "dl2:赵昊辰",
+   "name": "赵昊辰",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-赵昊辰-avatar.webp",
+   "standing": "斗二-赵昊辰-standing.webp"
+  },
+  {
+   "id": "dl2:赵雪鸦",
+   "name": "赵雪鸦",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-赵雪鸦-avatar.webp",
+   "standing": "斗二-赵雪鸦-standing.webp"
+  },
+  {
+   "id": "dl2:轩梓文",
+   "name": "轩梓文",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-轩梓文-avatar.webp",
+   "standing": "斗二-轩梓文-standing.webp"
+  },
+  {
+   "id": "dl2:邪眼暴君主宰",
+   "name": "邪眼暴君主宰",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-邪眼暴君主宰-avatar.webp",
+   "standing": "斗二-邪眼暴君主宰-standing.webp"
+  },
+  {
+   "id": "dl2:郑战",
+   "name": "郑战",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-郑战-avatar.webp",
+   "standing": "斗二-郑战-standing.webp"
+  },
+  {
+   "id": "dl2:金鹏",
+   "name": "金鹏",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-金鹏-avatar.webp",
+   "standing": "斗二-金鹏-standing.webp"
+  },
+  {
+   "id": "dl2:钟离乌",
+   "name": "钟离乌",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-钟离乌-avatar.webp",
+   "standing": "斗二-钟离乌-standing.webp"
+  },
+  {
+   "id": "dl2:钱多多",
+   "name": "钱多多",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-钱多多-avatar.webp",
+   "standing": "斗二-钱多多-standing.webp"
+  },
+  {
+   "id": "dl2:银月狼王",
+   "name": "银月狼王",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-银月狼王-avatar.webp",
+   "standing": "斗二-银月狼王-standing.webp"
+  },
+  {
+   "id": "dl2:镜红尘",
+   "name": "镜红尘",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-镜红尘-avatar.webp",
+   "standing": "斗二-镜红尘-standing.webp"
+  },
+  {
+   "id": "dl2:陈俊峰",
+   "name": "陈俊峰",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-陈俊峰-avatar.webp",
+   "standing": "斗二-陈俊峰-standing.webp"
+  },
+  {
+   "id": "dl2:陈子峰",
+   "name": "陈子峰",
+   "book": "dl2",
+   "aliases": [
+    "陈子锋"
+   ],
+   "avatar": "斗二-陈子峰-avatar.webp",
+   "standing": "斗二-陈子峰-standing.webp"
+  },
+  {
+   "id": "dl2:陈律",
+   "name": "陈律",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-陈律-avatar.webp",
+   "standing": "斗二-陈律-standing.webp"
+  },
+  {
+   "id": "dl2:陈成钻",
+   "name": "陈成钻",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-陈成钻-avatar.webp",
+   "standing": "斗二-陈成钻-standing.webp"
+  },
+  {
+   "id": "dl2:雪尘",
+   "name": "雪尘",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-雪尘-avatar.webp",
+   "standing": "斗二-雪尘-standing.webp"
+  },
+  {
+   "id": "dl2:雪帝",
+   "name": "雪帝",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-雪帝-avatar.webp",
+   "standing": "斗二-雪帝-standing.webp"
+  },
+  {
+   "id": "dl2:雪灵薰",
+   "name": "雪灵薰",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-雪灵薰-avatar.webp",
+   "standing": "斗二-雪灵薰-standing.webp"
+  },
+  {
+   "id": "dl2:霍云儿",
+   "name": "霍云儿",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-霍云儿-avatar.webp",
+   "standing": "斗二-霍云儿-standing.webp"
+  },
+  {
+   "id": "dl2:霍雨浩",
+   "name": "霍雨浩",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-霍雨浩-avatar.webp",
+   "standing": "斗二-霍雨浩-standing.webp"
+  },
+  {
+   "id": "dl2:青青",
+   "name": "青青",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-青青-avatar.webp",
+   "standing": "斗二-青青-standing.webp"
+  },
+  {
+   "id": "dl2:马如龙",
+   "name": "马如龙",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-马如龙-avatar.webp",
+   "standing": "斗二-马如龙-standing.webp"
+  },
+  {
+   "id": "dl2:马小桃",
+   "name": "马小桃",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-马小桃-avatar.webp",
+   "standing": "斗二-马小桃-standing.webp"
+  },
+  {
+   "id": "dl2:马英俊",
+   "name": "马英俊",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-马英俊-avatar.webp",
+   "standing": "斗二-马英俊-standing.webp"
+  },
+  {
+   "id": "dl2:高大楼",
+   "name": "高大楼",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-高大楼-avatar.webp",
+   "standing": "斗二-高大楼-standing.webp"
+  },
+  {
+   "id": "dl2:鬼见葵",
+   "name": "鬼见葵",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-鬼见葵-avatar.webp",
+   "standing": "斗二-鬼见葵-standing.webp"
+  },
+  {
+   "id": "dl2:魔拳斗罗",
+   "name": "魔拳斗罗",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-魔拳斗罗-avatar.webp",
+   "standing": "斗二-魔拳斗罗-standing.webp"
+  },
+  {
+   "id": "dl2:鸾凤",
+   "name": "鸾凤",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-鸾凤-avatar.webp",
+   "standing": "斗二-鸾凤-standing.webp"
+  },
+  {
+   "id": "dl2:黄楚天",
+   "name": "黄楚天",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-黄楚天-avatar.webp",
+   "standing": "斗二-黄楚天-standing.webp"
+  },
+  {
+   "id": "dl2:黄津绪",
+   "name": "黄津绪",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-黄津绪-avatar.webp",
+   "standing": "斗二-黄津绪-standing.webp"
+  },
+  {
+   "id": "dl2:黄金玳瑁",
+   "name": "黄金玳瑁",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-黄金玳瑁-avatar.webp",
+   "standing": "斗二-黄金玳瑁-standing.webp"
+  },
+  {
+   "id": "dl2:黑心虎",
+   "name": "黑心虎",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-黑心虎-avatar.webp",
+   "standing": "斗二-黑心虎-standing.webp"
+  },
+  {
+   "id": "dl2:龙傲天",
+   "name": "龙傲天",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-龙傲天-avatar.webp",
+   "standing": "斗二-龙傲天-standing.webp"
+  },
+  {
+   "id": "dl2:龙翔跃",
+   "name": "龙翔跃",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-龙翔跃-avatar.webp",
+   "standing": "斗二-龙翔跃-standing.webp"
+  },
+  {
+   "id": "dl2:龙逍遥",
+   "name": "龙逍遥",
+   "book": "dl2",
+   "aliases": [],
+   "avatar": "斗二-龙逍遥-avatar.webp",
+   "standing": "斗二-龙逍遥-standing.webp"
+  },
+  {
+   "id": "dl4:丁卓涵",
+   "name": "丁卓涵",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-丁卓涵-avatar.webp",
+   "standing": "斗四-丁卓涵-standing.webp"
+  },
+  {
+   "id": "dl4:严程",
+   "name": "严程",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-严程-avatar.webp",
+   "standing": "斗四-严程-standing.webp"
+  },
+  {
+   "id": "dl4:乐卿灵",
+   "name": "乐卿灵",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-乐卿灵-avatar.webp",
+   "standing": "斗四-乐卿灵-standing.webp"
+  },
+  {
+   "id": "dl4:云琰",
+   "name": "云琰",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-云琰-avatar.webp",
+   "standing": "斗四-云琰-standing.webp"
+  },
+  {
+   "id": "dl4:云蓼",
+   "name": "云蓼",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-云蓼-avatar.webp",
+   "standing": "斗四-云蓼-standing.webp"
+  },
+  {
+   "id": "dl4:余玖",
+   "name": "余玖",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-余玖-avatar.webp",
+   "standing": "斗四-余玖-standing.webp"
+  },
+  {
+   "id": "dl4:余颖欣",
+   "name": "余颖欣",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-余颖欣-avatar.webp",
+   "standing": "斗四-余颖欣-standing.webp"
+  },
+  {
+   "id": "dl4:依子尘",
+   "name": "依子尘",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-依子尘-avatar.webp",
+   "standing": "斗四-依子尘-standing.webp"
+  },
+  {
+   "id": "dl4:候鼎中",
+   "name": "候鼎中",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-候鼎中-avatar.webp",
+   "standing": "斗四-候鼎中-standing.webp"
+  },
+  {
+   "id": "dl4:冰天樑",
+   "name": "冰天樑",
+   "book": "dl4",
+   "aliases": [
+    "冰天梁"
+   ],
+   "avatar": "斗四-冰天樑-avatar.webp",
+   "standing": "斗四-冰天樑-standing.webp"
+  },
+  {
+   "id": "dl4:冰梦雪",
+   "name": "冰梦雪",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-冰梦雪-avatar.webp",
+   "standing": "斗四-冰梦雪-standing.webp"
+  },
+  {
+   "id": "dl4:凌依依",
+   "name": "凌依依",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-凌依依-avatar.webp",
+   "standing": "斗四-凌依依-standing.webp"
+  },
+  {
+   "id": "dl4:凌梓晨",
+   "name": "凌梓晨",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-凌梓晨-avatar.webp",
+   "standing": "斗四-凌梓晨-standing.webp"
+  },
+  {
+   "id": "dl4:凌雨墨",
+   "name": "凌雨墨",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-凌雨墨-avatar.webp",
+   "standing": "斗四-凌雨墨-standing.webp"
+  },
+  {
+   "id": "dl4:刘宝川",
+   "name": "刘宝川",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-刘宝川-avatar.webp",
+   "standing": "斗四-刘宝川-standing.webp"
+  },
+  {
+   "id": "dl4:刘振武",
+   "name": "刘振武",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-刘振武-avatar.webp",
+   "standing": "斗四-刘振武-standing.webp"
+  },
+  {
+   "id": "dl4:刘桂町",
+   "name": "刘桂町",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-刘桂町-avatar.webp",
+   "standing": "斗四-刘桂町-standing.webp"
+  },
+  {
+   "id": "dl4:刘锋",
+   "name": "刘锋",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-刘锋-avatar.webp",
+   "standing": "斗四-刘锋-standing.webp"
+  },
+  {
+   "id": "dl4:北天鸿",
+   "name": "北天鸿",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-北天鸿-avatar.webp",
+   "standing": "斗四-北天鸿-standing.webp"
+  },
+  {
+   "id": "dl4:千古悠柔",
+   "name": "千古悠柔",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-千古悠柔-avatar.webp",
+   "standing": "斗四-千古悠柔-standing.webp"
+  },
+  {
+   "id": "dl4:南宫伊菱",
+   "name": "南宫伊菱",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-南宫伊菱-avatar.webp",
+   "standing": "斗四-南宫伊菱-standing.webp"
+  },
+  {
+   "id": "dl4:南宫洛洛",
+   "name": "南宫洛洛",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-南宫洛洛-avatar.webp",
+   "standing": "斗四-南宫洛洛-standing.webp"
+  },
+  {
+   "id": "dl4:南宫玲",
+   "name": "南宫玲",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-南宫玲-avatar.webp",
+   "standing": "斗四-南宫玲-standing.webp"
+  },
+  {
+   "id": "dl4:南澄",
+   "name": "南澄",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-南澄-avatar.webp",
+   "standing": "斗四-南澄-standing.webp"
+  },
+  {
+   "id": "dl4:原恩光军",
+   "name": "原恩光军",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-原恩光军-avatar.webp",
+   "standing": "斗四-原恩光军-standing.webp"
+  },
+  {
+   "id": "dl4:原恩辉光",
+   "name": "原恩辉光",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-原恩辉光-avatar.webp",
+   "standing": "斗四-原恩辉光-standing.webp"
+  },
+  {
+   "id": "dl4:原恩辉辉",
+   "name": "原恩辉辉",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-原恩辉辉-avatar.webp",
+   "standing": "斗四-原恩辉辉-standing.webp"
+  },
+  {
+   "id": "dl4:原恩风雨",
+   "name": "原恩风雨",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-原恩风雨-avatar.webp",
+   "standing": "斗四-原恩风雨-standing.webp"
+  },
+  {
+   "id": "dl4:史芯羽",
+   "name": "史芯羽",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-史芯羽-avatar.webp",
+   "standing": "斗四-史芯羽-standing.webp"
+  },
+  {
+   "id": "dl4:叶灵瞳",
+   "name": "叶灵瞳",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-叶灵瞳-avatar.webp",
+   "standing": "斗四-叶灵瞳-standing.webp"
+  },
+  {
+   "id": "dl4:叶锋",
+   "name": "叶锋",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-叶锋-avatar.webp",
+   "standing": "斗四-叶锋-standing.webp"
+  },
+  {
+   "id": "dl4:叶陌勇",
+   "name": "叶陌勇",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-叶陌勇-avatar.webp",
+   "standing": "斗四-叶陌勇-standing.webp"
+  },
+  {
+   "id": "dl4:司马仙",
+   "name": "司马仙",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-司马仙-avatar.webp",
+   "standing": "斗四-司马仙-standing.webp"
+  },
+  {
+   "id": "dl4:吕千寻",
+   "name": "吕千寻",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-吕千寻-avatar.webp",
+   "standing": "斗四-吕千寻-standing.webp"
+  },
+  {
+   "id": "dl4:吴昕辉",
+   "name": "吴昕辉",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-吴昕辉-avatar.webp",
+   "standing": "斗四-吴昕辉-standing.webp"
+  },
+  {
+   "id": "dl4:吴治谦",
+   "name": "吴治谦",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-吴治谦-avatar.webp",
+   "standing": "斗四-吴治谦-standing.webp"
+  },
+  {
+   "id": "dl4:周亿程",
+   "name": "周亿程",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-周亿程-avatar.webp",
+   "standing": "斗四-周亿程-standing.webp"
+  },
+  {
+   "id": "dl4:周鹏展",
+   "name": "周鹏展",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-周鹏展-avatar.webp",
+   "standing": "斗四-周鹏展-standing.webp"
+  },
+  {
+   "id": "dl4:唐希梦",
+   "name": "唐希梦",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-唐希梦-avatar.webp",
+   "standing": "斗四-唐希梦-standing.webp"
+  },
+  {
+   "id": "dl4:唐晓萌",
+   "name": "唐晓萌",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-唐晓萌-avatar.webp",
+   "standing": "斗四-唐晓萌-standing.webp"
+  },
+  {
+   "id": "dl4:唐月葛",
+   "name": "唐月葛",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-唐月葛-avatar.webp",
+   "standing": "斗四-唐月葛-standing.webp"
+  },
+  {
+   "id": "dl4:唐淼",
+   "name": "唐淼",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-唐淼-avatar.webp",
+   "standing": "斗四-唐淼-standing.webp"
+  },
+  {
+   "id": "dl4:唐空空",
+   "name": "唐空空",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-唐空空-avatar.webp",
+   "standing": "斗四-唐空空-standing.webp"
+  },
+  {
+   "id": "dl4:唐英",
+   "name": "唐英",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-唐英-avatar.webp",
+   "standing": "斗四-唐英-standing.webp"
+  },
+  {
+   "id": "dl4:唐雨格",
+   "name": "唐雨格",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-唐雨格-avatar.webp",
+   "standing": "斗四-唐雨格-standing.webp"
+  },
+  {
+   "id": "dl4:唐震华",
+   "name": "唐震华",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-唐震华-avatar.webp",
+   "standing": "斗四-唐震华-standing.webp"
+  },
+  {
+   "id": "dl4:嘉宇",
+   "name": "嘉宇",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-嘉宇-avatar.webp",
+   "standing": "斗四-嘉宇-standing.webp"
+  },
+  {
+   "id": "dl4:嘉琳",
+   "name": "嘉琳",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-嘉琳-avatar.webp",
+   "standing": "斗四-嘉琳-standing.webp"
+  },
+  {
+   "id": "dl4:天马",
+   "name": "天马",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-天马-avatar.webp",
+   "standing": "斗四-天马-standing.webp"
+  },
+  {
+   "id": "dl4:姚李林",
+   "name": "姚李林",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-姚李林-avatar.webp",
+   "standing": "斗四-姚李林-standing.webp"
+  },
+  {
+   "id": "dl4:孙未平",
+   "name": "孙未平",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-孙未平-avatar.webp",
+   "standing": "斗四-孙未平-standing.webp"
+  },
+  {
+   "id": "dl4:季洪彬",
+   "name": "季洪彬",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-季洪彬-avatar.webp",
+   "standing": "斗四-季洪彬-standing.webp"
+  },
+  {
+   "id": "dl4:安佩玖",
+   "name": "安佩玖",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-安佩玖-avatar.webp",
+   "standing": "斗四-安佩玖-standing.webp"
+  },
+  {
+   "id": "dl4:宋君厚",
+   "name": "宋君厚",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-宋君厚-avatar.webp",
+   "standing": "斗四-宋君厚-standing.webp"
+  },
+  {
+   "id": "dl4:容玉泫",
+   "name": "容玉泫",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-容玉泫-avatar.webp",
+   "standing": "斗四-容玉泫-standing.webp"
+  },
+  {
+   "id": "dl4:寻宝兽",
+   "name": "寻宝兽",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-寻宝兽-avatar.webp",
+   "standing": "斗四-寻宝兽-standing.webp"
+  },
+  {
+   "id": "dl4:常剑逸",
+   "name": "常剑逸",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-常剑逸-avatar.webp",
+   "standing": "斗四-常剑逸-standing.webp"
+  },
+  {
+   "id": "dl4:张圆圆",
+   "name": "张圆圆",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-张圆圆-avatar.webp",
+   "standing": "斗四-张圆圆-standing.webp"
+  },
+  {
+   "id": "dl4:张晨雨",
+   "name": "张晨雨",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-张晨雨-avatar.webp",
+   "standing": "斗四-张晨雨-standing.webp"
+  },
+  {
+   "id": "dl4:张梁睿晓",
+   "name": "张梁睿晓",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-张梁睿晓-avatar.webp",
+   "standing": "斗四-张梁睿晓-standing.webp"
+  },
+  {
+   "id": "dl4:张楚佳",
+   "name": "张楚佳",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-张楚佳-avatar.webp",
+   "standing": "斗四-张楚佳-standing.webp"
+  },
+  {
+   "id": "dl4:张泽铠",
+   "name": "张泽铠",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-张泽铠-avatar.webp",
+   "standing": "斗四-张泽铠-standing.webp"
+  },
+  {
+   "id": "dl4:张瑞妍",
+   "name": "张瑞妍",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-张瑞妍-avatar.webp",
+   "standing": "斗四-张瑞妍-standing.webp"
+  },
+  {
+   "id": "dl4:徐言莫",
+   "name": "徐言莫",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-徐言莫-avatar.webp",
+   "standing": "斗四-徐言莫-standing.webp"
+  },
+  {
+   "id": "dl4:慕容殇",
+   "name": "慕容殇",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-慕容殇-avatar.webp",
+   "standing": "斗四-慕容殇-standing.webp"
+  },
+  {
+   "id": "dl4:戚睿轩",
+   "name": "戚睿轩",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-戚睿轩-avatar.webp",
+   "standing": "斗四-戚睿轩-standing.webp"
+  },
+  {
+   "id": "dl4:星璇",
+   "name": "星璇",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-星璇-avatar.webp",
+   "standing": "斗四-星璇-standing.webp"
+  },
+  {
+   "id": "dl4:暗羽",
+   "name": "暗羽",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-暗羽-avatar.webp",
+   "standing": "斗四-暗羽-standing.webp"
+  },
+  {
+   "id": "dl4:杉蔚",
+   "name": "杉蔚",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-杉蔚-avatar.webp",
+   "standing": "斗四-杉蔚-standing.webp"
+  },
+  {
+   "id": "dl4:李思奇",
+   "name": "李思奇",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-李思奇-avatar.webp",
+   "standing": "斗四-李思奇-standing.webp"
+  },
+  {
+   "id": "dl4:李思明",
+   "name": "李思明",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-李思明-avatar.webp",
+   "standing": "斗四-李思明-standing.webp"
+  },
+  {
+   "id": "dl4:李斌",
+   "name": "李斌",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-李斌-avatar.webp",
+   "standing": "斗四-李斌-standing.webp"
+  },
+  {
+   "id": "dl4:李梦龙",
+   "name": "李梦龙",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-李梦龙-avatar.webp",
+   "standing": "斗四-李梦龙-standing.webp"
+  },
+  {
+   "id": "dl4:李瀚",
+   "name": "李瀚",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-李瀚-avatar.webp",
+   "standing": "斗四-李瀚-standing.webp"
+  },
+  {
+   "id": "dl4:李球球",
+   "name": "李球球",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-李球球-avatar.webp",
+   "standing": "斗四-李球球-standing.webp"
+  },
+  {
+   "id": "dl4:李耀明",
+   "name": "李耀明",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-李耀明-avatar.webp",
+   "standing": "斗四-李耀明-standing.webp"
+  },
+  {
+   "id": "dl4:李雪莹",
+   "name": "李雪莹",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-李雪莹-avatar.webp",
+   "standing": "斗四-李雪莹-standing.webp"
+  },
+  {
+   "id": "dl4:李鹏斌",
+   "name": "李鹏斌",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-李鹏斌-avatar.webp",
+   "standing": "斗四-李鹏斌-standing.webp"
+  },
+  {
+   "id": "dl4:杨英明",
+   "name": "杨英明",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-杨英明-avatar.webp",
+   "standing": "斗四-杨英明-standing.webp"
+  },
+  {
+   "id": "dl4:杨辉",
+   "name": "杨辉",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-杨辉-avatar.webp",
+   "standing": "斗四-杨辉-standing.webp"
+  },
+  {
+   "id": "dl4:林东晖",
+   "name": "林东晖",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-林东晖-avatar.webp",
+   "standing": "斗四-林东晖-standing.webp"
+  },
+  {
+   "id": "dl4:林天待",
+   "name": "林天待",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-林天待-avatar.webp",
+   "standing": "斗四-林天待-standing.webp"
+  },
+  {
+   "id": "dl4:林泽炫",
+   "name": "林泽炫",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-林泽炫-avatar.webp",
+   "standing": "斗四-林泽炫-standing.webp"
+  },
+  {
+   "id": "dl4:林陌华",
+   "name": "林陌华",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-林陌华-avatar.webp",
+   "standing": "斗四-林陌华-standing.webp"
+  },
+  {
+   "id": "dl4:柯红",
+   "name": "柯红",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-柯红-avatar.webp",
+   "standing": "斗四-柯红-standing.webp"
+  },
+  {
+   "id": "dl4:树老",
+   "name": "树老",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-树老-avatar.webp",
+   "standing": "斗四-树老-standing.webp"
+  },
+  {
+   "id": "dl4:桐月",
+   "name": "桐月",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-桐月-avatar.webp",
+   "standing": "斗四-桐月-standing.webp"
+  },
+  {
+   "id": "dl4:梁淑诗",
+   "name": "梁淑诗",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-梁淑诗-avatar.webp",
+   "standing": "斗四-梁淑诗-standing.webp"
+  },
+  {
+   "id": "dl4:梁铮",
+   "name": "梁铮",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-梁铮-avatar.webp",
+   "standing": "斗四-梁铮-standing.webp"
+  },
+  {
+   "id": "dl4:梦飞",
+   "name": "梦飞",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-梦飞-avatar.webp",
+   "standing": "斗四-梦飞-standing.webp"
+  },
+  {
+   "id": "dl4:樱落红",
+   "name": "樱落红",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-樱落红-avatar.webp",
+   "standing": "斗四-樱落红-standing.webp"
+  },
+  {
+   "id": "dl4:江炜强",
+   "name": "江炜强",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-江炜强-avatar.webp",
+   "standing": "斗四-江炜强-standing.webp"
+  },
+  {
+   "id": "dl4:汪天羽",
+   "name": "汪天羽",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-汪天羽-avatar.webp",
+   "standing": "斗四-汪天羽-standing.webp"
+  },
+  {
+   "id": "dl4:浠梦",
+   "name": "浠梦",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-浠梦-avatar.webp",
+   "standing": "斗四-浠梦-standing.webp"
+  },
+  {
+   "id": "dl4:深红之母",
+   "name": "深红之母",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-深红之母-avatar.webp",
+   "standing": "斗四-深红之母-standing.webp"
+  },
+  {
+   "id": "dl4:清萝",
+   "name": "清萝",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-清萝-avatar.webp",
+   "standing": "斗四-清萝-standing.webp"
+  },
+  {
+   "id": "dl4:熙尘落",
+   "name": "熙尘落",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-熙尘落-avatar.webp",
+   "standing": "斗四-熙尘落-standing.webp"
+  },
+  {
+   "id": "dl4:牧重天",
+   "name": "牧重天",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-牧重天-avatar.webp",
+   "standing": "斗四-牧重天-standing.webp"
+  },
+  {
+   "id": "dl4:王力健",
+   "name": "王力健",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-王力健-avatar.webp",
+   "standing": "斗四-王力健-standing.webp"
+  },
+  {
+   "id": "dl4:王占航",
+   "name": "王占航",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-王占航-avatar.webp",
+   "standing": "斗四-王占航-standing.webp"
+  },
+  {
+   "id": "dl4:田泽锋",
+   "name": "田泽锋",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-田泽锋-avatar.webp",
+   "standing": "斗四-田泽锋-standing.webp"
+  },
+  {
+   "id": "dl4:申俊杰",
+   "name": "申俊杰",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-申俊杰-avatar.webp",
+   "standing": "斗四-申俊杰-standing.webp"
+  },
+  {
+   "id": "dl4:白秀秀",
+   "name": "白秀秀",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-白秀秀-avatar.webp",
+   "standing": "斗四-白秀秀-standing.webp"
+  },
+  {
+   "id": "dl4:皇元朗",
+   "name": "皇元朗",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-皇元朗-avatar.webp",
+   "standing": "斗四-皇元朗-standing.webp"
+  },
+  {
+   "id": "dl4:皇道奇",
+   "name": "皇道奇",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-皇道奇-avatar.webp",
+   "standing": "斗四-皇道奇-standing.webp"
+  },
+  {
+   "id": "dl4:秋雨馨",
+   "name": "秋雨馨",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-秋雨馨-avatar.webp",
+   "standing": "斗四-秋雨馨-standing.webp"
+  },
+  {
+   "id": "dl4:秦长安",
+   "name": "秦长安",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-秦长安-avatar.webp",
+   "standing": "斗四-秦长安-standing.webp"
+  },
+  {
+   "id": "dl4:童萌如",
+   "name": "童萌如",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-童萌如-avatar.webp",
+   "standing": "斗四-童萌如-standing.webp"
+  },
+  {
+   "id": "dl4:精灵女王",
+   "name": "精灵女王",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-精灵女王-avatar.webp",
+   "standing": "斗四-精灵女王-standing.webp"
+  },
+  {
+   "id": "dl4:罗亚元",
+   "name": "罗亚元",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-罗亚元-avatar.webp",
+   "standing": "斗四-罗亚元-standing.webp"
+  },
+  {
+   "id": "dl4:罗镧",
+   "name": "罗镧",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-罗镧-avatar.webp",
+   "standing": "斗四-罗镧-standing.webp"
+  },
+  {
+   "id": "dl4:羽天",
+   "name": "羽天",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-羽天-avatar.webp",
+   "standing": "斗四-羽天-standing.webp"
+  },
+  {
+   "id": "dl4:羽沐辰",
+   "name": "羽沐辰",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-羽沐辰-avatar.webp",
+   "standing": "斗四-羽沐辰-standing.webp"
+  },
+  {
+   "id": "dl4:肖启",
+   "name": "肖启",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-肖启-avatar.webp",
+   "standing": "斗四-肖启-standing.webp"
+  },
+  {
+   "id": "dl4:舒子轩",
+   "name": "舒子轩",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-舒子轩-avatar.webp",
+   "standing": "斗四-舒子轩-standing.webp"
+  },
+  {
+   "id": "dl4:舒香衣",
+   "name": "舒香衣",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-舒香衣-avatar.webp",
+   "standing": "斗四-舒香衣-standing.webp"
+  },
+  {
+   "id": "dl4:良朴",
+   "name": "良朴",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-良朴-avatar.webp",
+   "standing": "斗四-良朴-standing.webp"
+  },
+  {
+   "id": "dl4:花霖寒",
+   "name": "花霖寒",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-花霖寒-avatar.webp",
+   "standing": "斗四-花霖寒-standing.webp"
+  },
+  {
+   "id": "dl4:若烨",
+   "name": "若烨",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-若烨-avatar.webp",
+   "standing": "斗四-若烨-standing.webp"
+  },
+  {
+   "id": "dl4:荆棘龙",
+   "name": "荆棘龙",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-荆棘龙-avatar.webp",
+   "standing": "斗四-荆棘龙-standing.webp"
+  },
+  {
+   "id": "dl4:蓝冰",
+   "name": "蓝冰",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-蓝冰-avatar.webp",
+   "standing": "斗四-蓝冰-standing.webp"
+  },
+  {
+   "id": "dl4:蓝梦琴",
+   "name": "蓝梦琴",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-蓝梦琴-avatar.webp",
+   "standing": "斗四-蓝梦琴-standing.webp"
+  },
+  {
+   "id": "dl4:蓝潇",
+   "name": "蓝潇",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-蓝潇-avatar.webp",
+   "standing": "斗四-蓝潇-standing.webp"
+  },
+  {
+   "id": "dl4:蓝蝴蝶",
+   "name": "蓝蝴蝶",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-蓝蝴蝶-avatar.webp",
+   "standing": "斗四-蓝蝴蝶-standing.webp"
+  },
+  {
+   "id": "dl4:蓝轩宇",
+   "name": "蓝轩宇",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-蓝轩宇-avatar.webp",
+   "standing": "斗四-蓝轩宇-standing.webp"
+  },
+  {
+   "id": "dl4:薛雨冰",
+   "name": "薛雨冰",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-薛雨冰-avatar.webp",
+   "standing": "斗四-薛雨冰-standing.webp"
+  },
+  {
+   "id": "dl4:袁睿",
+   "name": "袁睿",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-袁睿-avatar.webp",
+   "standing": "斗四-袁睿-standing.webp"
+  },
+  {
+   "id": "dl4:詹京",
+   "name": "詹京",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-詹京-avatar.webp",
+   "standing": "斗四-詹京-standing.webp"
+  },
+  {
+   "id": "dl4:许家铭",
+   "name": "许家铭",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-许家铭-avatar.webp",
+   "standing": "斗四-许家铭-standing.webp"
+  },
+  {
+   "id": "dl4:许荣鑫",
+   "name": "许荣鑫",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-许荣鑫-avatar.webp",
+   "standing": "斗四-许荣鑫-standing.webp"
+  },
+  {
+   "id": "dl4:谢福泉",
+   "name": "谢福泉",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-谢福泉-avatar.webp",
+   "standing": "斗四-谢福泉-standing.webp"
+  },
+  {
+   "id": "dl4:谭小刀",
+   "name": "谭小刀",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-谭小刀-avatar.webp",
+   "standing": "斗四-谭小刀-standing.webp"
+  },
+  {
+   "id": "dl4:邓博",
+   "name": "邓博",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-邓博-avatar.webp",
+   "standing": "斗四-邓博-standing.webp"
+  },
+  {
+   "id": "dl4:邢昊天",
+   "name": "邢昊天",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-邢昊天-avatar.webp",
+   "standing": "斗四-邢昊天-standing.webp"
+  },
+  {
+   "id": "dl4:郑龙江",
+   "name": "郑龙江",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-郑龙江-avatar.webp",
+   "standing": "斗四-郑龙江-standing.webp"
+  },
+  {
+   "id": "dl4:金刚狒狒",
+   "name": "金刚狒狒",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-金刚狒狒-avatar.webp",
+   "standing": "斗四-金刚狒狒-standing.webp"
+  },
+  {
+   "id": "dl4:金妮",
+   "name": "金妮",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-金妮-avatar.webp",
+   "standing": "斗四-金妮-standing.webp"
+  },
+  {
+   "id": "dl4:金翔",
+   "name": "金翔",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-金翔-avatar.webp",
+   "standing": "斗四-金翔-standing.webp"
+  },
+  {
+   "id": "dl4:钟志昌",
+   "name": "钟志昌",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-钟志昌-avatar.webp",
+   "standing": "斗四-钟志昌-standing.webp"
+  },
+  {
+   "id": "dl4:钮一伟",
+   "name": "钮一伟",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-钮一伟-avatar.webp",
+   "standing": "斗四-钮一伟-standing.webp"
+  },
+  {
+   "id": "dl4:钱磊",
+   "name": "钱磊",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-钱磊-avatar.webp",
+   "standing": "斗四-钱磊-standing.webp"
+  },
+  {
+   "id": "dl4:银天凡",
+   "name": "银天凡",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-银天凡-avatar.webp",
+   "standing": "斗四-银天凡-standing.webp"
+  },
+  {
+   "id": "dl4:银柯",
+   "name": "银柯",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-银柯-avatar.webp",
+   "standing": "斗四-银柯-standing.webp"
+  },
+  {
+   "id": "dl4:阴阳混沌鸟",
+   "name": "阴阳混沌鸟",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-阴阳混沌鸟-avatar.webp",
+   "standing": "斗四-阴阳混沌鸟-standing.webp"
+  },
+  {
+   "id": "dl4:陈乐",
+   "name": "陈乐",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-陈乐-avatar.webp",
+   "standing": "斗四-陈乐-standing.webp"
+  },
+  {
+   "id": "dl4:陈悦霖",
+   "name": "陈悦霖",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-陈悦霖-avatar.webp",
+   "standing": "斗四-陈悦霖-standing.webp"
+  },
+  {
+   "id": "dl4:陈舞烛",
+   "name": "陈舞烛",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-陈舞烛-avatar.webp",
+   "standing": "斗四-陈舞烛-standing.webp"
+  },
+  {
+   "id": "dl4:陈艺磊",
+   "name": "陈艺磊",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-陈艺磊-avatar.webp",
+   "standing": "斗四-陈艺磊-standing.webp"
+  },
+  {
+   "id": "dl4:雷钧泽",
+   "name": "雷钧泽",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-雷钧泽-avatar.webp",
+   "standing": "斗四-雷钧泽-standing.webp"
+  },
+  {
+   "id": "dl4:颜星河",
+   "name": "颜星河",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-颜星河-avatar.webp",
+   "standing": "斗四-颜星河-standing.webp"
+  },
+  {
+   "id": "dl4:颜若婷",
+   "name": "颜若婷",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-颜若婷-avatar.webp",
+   "standing": "斗四-颜若婷-standing.webp"
+  },
+  {
+   "id": "dl4:飘小絮",
+   "name": "飘小絮",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-飘小絮-avatar.webp",
+   "standing": "斗四-飘小絮-standing.webp"
+  },
+  {
+   "id": "dl4:魔后",
+   "name": "魔后",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-魔后-avatar.webp",
+   "standing": "斗四-魔后-standing.webp"
+  },
+  {
+   "id": "dl4:黄启帆",
+   "name": "黄启帆",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-黄启帆-avatar.webp",
+   "standing": "斗四-黄启帆-standing.webp"
+  },
+  {
+   "id": "dl4:黄良伟",
+   "name": "黄良伟",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-黄良伟-avatar.webp",
+   "standing": "斗四-黄良伟-standing.webp"
+  },
+  {
+   "id": "dl4:黄金比蒙",
+   "name": "黄金比蒙",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-黄金比蒙-avatar.webp",
+   "standing": "斗四-黄金比蒙-standing.webp"
+  },
+  {
+   "id": "dl4:黑帝",
+   "name": "黑帝",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-黑帝-avatar.webp",
+   "standing": "斗四-黑帝-standing.webp"
+  },
+  {
+   "id": "dl4:齐天龙",
+   "name": "齐天龙",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-齐天龙-avatar.webp",
+   "standing": "斗四-齐天龙-standing.webp"
+  },
+  {
+   "id": "dl4:龙天养",
+   "name": "龙天养",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-龙天养-avatar.webp",
+   "standing": "斗四-龙天养-standing.webp"
+  },
+  {
+   "id": "dl4:龙潮洋",
+   "name": "龙潮洋",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-龙潮洋-avatar.webp",
+   "standing": "斗四-龙潮洋-standing.webp"
+  },
+  {
+   "id": "dl4:龚英豪",
+   "name": "龚英豪",
+   "book": "dl4",
+   "aliases": [],
+   "avatar": "斗四-龚英豪-avatar.webp",
+   "standing": "斗四-龚英豪-standing.webp"
+  }
+ ]
+}
