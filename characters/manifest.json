@@ -1858,6 +1858,14 @@
    "standing": "斗三-古天月-standing.webp"
   },
   {
+   "id": "dl3:古月",
+   "name": "古月",
+   "book": "dl3",
+   "aliases": [],
+   "avatar": "斗三-古月-avatar.webp",
+   "standing": "斗三-古月-standing.webp"
+  },
+  {
    "id": "dl3:古月娜",
    "name": "古月娜",
    "book": "dl3",
